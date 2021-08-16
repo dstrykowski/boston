@@ -155,6 +155,6 @@ Strykowski, Derek R. “Directory of Boston’s `r textOutput("CategoryName4", i
 
 <hr>
 
-©2020 [Derek R. Strykowski](https://dstrykowski.com). This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Image credit: *Atlas of the City of Boston,* vol. 1 (Philadelphia: Bromley, 1888), plate 28, [Norman B. Leventhal Map & Education Center](https://collections.leventhalmap.org/search/commonwealth:tt44pv74v).  
+©2020 [Derek R. Strykowski](https://dstrykowski.com). This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). The code is available on [GitHub](https://github.com/dstrykowski/boston). Image credit: *Atlas of the City of Boston,* vol. 1 (Philadelphia: Bromley, 1888), plate 28, [Norman B. Leventhal Map & Education Center](https://collections.leventhalmap.org/search/commonwealth:tt44pv74v).  
 &nbsp;  
 &nbsp;  
