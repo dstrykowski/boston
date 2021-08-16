@@ -1,2 +1,1 @@
-# boston
-Musical Geographies of Boston, 1865–1915
+This is the code for [Musical Geographies of Boston, 1865–1915](https://dstrykowski.shinyapps.io/boston/). ©2021 [Derek R. Strykowski](https://dstrykowski.com). This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  
