@@ -12,7 +12,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1865,497,Music Stores,"Ditson, Oliver & Co.",277 Washington,Boston,MA,42.35534,-71.06077,
 1865,497,Music Stores,"Haynes, J. C. & Co.",33 Court St,Boston,MA,42.35916,-71.05872,
 1865,497,Music Stores,"Howe, Elias",103 Court St,Boston,MA,42.36040,-71.06005,
-1865,497,Music Stores,"Russell, G. D. & Co.",126 Tremont,Boston,MA,42.356449,-71.061737,
+1865,497,Music Stores,"Russell, G. D. & Co.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1865,497,Music Stores,"Tolman, H. & Co.",291 Washington,Boston,MA,42.35512,-71.06107,
 1865,497,Music Stores,"White, A. W.",86 Tremont,Boston,MA,42.35749,-71.06052,
 1865,497,Musical Instrument Makers,"Crosby, Walter",59 Court St,Boston,MA,42.35937,-71.05910,
@@ -91,7 +91,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1865,504,Pianofortes,"Miller, Henry F.",344 Washington,Boston,MA,42.35322,-71.06240,
 1865,504,Pianofortes,"Newhall, A.",563 Tremont,Boston,MA,42.343953,-71.072113,
 1865,504,Pianofortes,"Paul, Humphrey, & Co.",375 Washington,Boston,MA,42.35358,-71.06254,
-1865,504,Pianofortes,"Russell, Geo. D. & Co.",126 Tremont,Boston,MA,42.356449,-71.061737,
+1865,504,Pianofortes,"Russell, Geo. D. & Co.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1865,504,Pianofortes,"Vose, J. W.",323 Washington,Boston,MA,42.35453,-71.06167,
 1865,504,Pianofortes,Woodward & Brown,387 Washington,Boston,MA,42.35330,-71.06262,
 1865,505,Printers of Music,"Balch, Edward L.",34 School,Boston,MA,42.357588,-71.059134,
@@ -106,7 +106,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1865,514,Teachers of Music,"Bond, A.",67 Chambers,Boston,MA,42.348342,-71.072919,
 1865,514,Teachers of Music,"Bricher, Thomas",19 Tremont Temple,Boston,MA,42.35764,-71.06063,
 1865,514,Teachers of Music,"Brown, Louise P.",1 Rollins Place,Boston,MA,42.359764,-71.067203,
-1865,514,Teachers of Music,"Brown, O. B.",126 Tremont St,Boston,MA,42.356449,-71.061737,
+1865,514,Teachers of Music,"Brown, O. B.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1865,514,Teachers of Music,"Bruce, E.",Winter St,Boston,MA,42.35601,-71.06139,Winter St Church
 1865,514,Teachers of Music,"Butler, Chas.",291 Washington,Boston,MA,42.35512,-71.06107,
 1865,514,Teachers of Music,"Daum, H.",83 Brookline,Boston,MA,42.34074,-71.07361,
@@ -141,7 +141,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1865,514,Teachers of Music,"Kreissman, A.",14 Hudson,Boston,MA,42.350633,-71.060007,
 1865,514,Teachers of Music,"Lang, B. J.",112 Boylston,Boston,MA,42.352279,-71.065297,
 1865,514,Teachers of Music,"Leonhard, Hugo",Boylston St,Boston,MA,42.35234,-71.06485,Hotel Pelham
-1865,514,Teachers of Music,"Lewis, Emma H., Mrs.",18 Essex,Boston,MA,42.352563,-71.062361,
+1865,514,Teachers of Music,"Lewis, Emma H., Mrs.",18 Essex,Boston,MA,42.35257,-71.06205,
 1865,514,Teachers of Music,"Logan, Henry C.",5 River,Boston,MA,42.35748,-71.07049,
 1865,514,Teachers of Music,"Long, J. H., Mrs.",274 Washington,Boston,MA,42.35457,-71.06130,
 1865,514,Teachers of Music,"Luttrell, C. J.",224 Harrison Ave.,Boston,MA,42.347987,-71.061651,
@@ -179,11 +179,11 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1054,Military Bands,American Band,375 Washington,Boston,MA,42.35633,-71.05970,
 1875,1054,Military Bands,Bond’s Cornet Band,89 Court St,Boston,MA,42.35998,-71.05976,
 1875,1054,Military Bands,Boston Cornet Band,103 Court St,Boston,MA,42.36040,-71.06005,
-1875,1054,Military Bands,Boston Orchestral Club,126 Tremont,Boston,MA,42.356449,-71.061737,
+1875,1054,Military Bands,Boston Orchestral Club,126 Tremont,Boston,MA,42.35646,-71.06181,
 1875,1054,Military Bands,Brown’s Brigade Band,220 Washington,Boston,MA,42.35844,-71.05772,"J. Thos. Baldwin, agent"
-1875,1054,Military Bands,Carter’s Band,126 Tremont,Boston,MA,42.356449,-71.061737,
+1875,1054,Military Bands,Carter’s Band,126 Tremont,Boston,MA,42.35646,-71.06181,
 1875,1054,Military Bands,Carter’s Band and Orchestra,283 Washington,Boston,MA,42.35750,-71.05837,
-1875,1054,Military Bands,Christie’s Quadrille Band,202 Tremont,Boston,MA,42.351992,-71.064479,
+1875,1054,Military Bands,Christie’s Quadrille Band,202 Tremont,Boston,MA,42.35189,-71.06454,
 1875,1054,Military Bands,Dunbar’s Quadrille Band,10 Franklin Avenue,Boston,MA,42.359104,-71.058714,
 1875,1054,Military Bands,Edmund’s Quadrille Band,61 Cornhill,Boston,MA,42.35945,-71.05907,
 1875,1054,Military Bands,First Regiment Band,186 Washington,Boston,MA,42.35926,-71.05766,
@@ -208,10 +208,10 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1054,Music Publishers,Davenport Brothers,340 Washington,Boston,MA,42.35664,-71.05894,
 1875,1054,Music Publishers,"Ditson, Oliver & Co.",451 Washington,Boston,MA,42.35534,-71.06077,
 1875,1054,Music Publishers,"Perry, John F. & Co.",538 Washington,Boston,MA,42.35381,-71.06209,
-1875,1054,Music Publishers,"Samuels, E. A.",125 Tremont,Boston,MA,42.356533,-71.061711,
+1875,1054,Music Publishers,"Samuels, E. A.",125 Tremont,Boston,MA,42.35648,-71.06176,
 1875,1054,Music Publishers,"White, Smith, & Co.",516 Washington,Boston,MA,42.35407,-71.06183,
 1875,1054,Music Stores,"Boris, Woods, & Co.",608 Washington,Boston,MA,42.35269,-71.06242,
-1875,1054,Music Stores,"Christie, H. & Co.",202 Tremont,Boston,MA,42.351992,-71.064479,
+1875,1054,Music Stores,"Christie, H. & Co.",202 Tremont,Boston,MA,42.35189,-71.06454,
 1875,1054,Music Stores,"Clapp, Charles C.",69 Court St,Boston,MA,42.35956,-71.05940,
 1875,1054,Music Stores,"Cundy, W. H.",1317 Washington,Boston,MA,42.342077,-71.068561,
 1875,1054,Music Stores,"Ditson, Oliver & Co.",451 Washington,Boston,MA,42.35534,-71.06077,
@@ -221,13 +221,13 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1054,Music Stores,"Howe, Elias",103 Court St,Boston,MA,42.36040,-71.06005,
 1875,1054,Music Stores,"Perry, John F. & Co.",538 Washington,Boston,MA,42.35381,-71.06209,
 1875,1054,Music Stores,"Pruefer, Carl",30 West St,Boston,MA,42.354677,-71.062681,
-1875,1054,Music Stores,"Russell, G. D. & Co.",126 Tremont,Boston,MA,42.356449,-71.061737,
+1875,1054,Music Stores,"Russell, G. D. & Co.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1875,1054,Music Stores,"Schneider, Herrman",812 Washington,Boston,MA,42.34930,-71.06373,
 1875,1054,Music Stores,"Turner, Joseph W.",3 Chelsea,Boston,MA,42.369959,-71.038504,East Boston
 1875,1054,Music Stores,"White, J.",226 Washington,Boston,MA,42.35837,-71.05776,Room 6
 1875,1054,Music Stores,"White, Smith, & Co.",516 Washington,Boston,MA,42.35407,-71.06183,
 1875,1054,Musical Agencies,"Jones, George A.",3 Bedford,Boston,MA,42.3542,-71.06168,
-1875,1054,Musical Institutes,Boston Conservatory of Music,154 Tremont,Boston,MA,42.354783,-71.063742,"Julius Elchberg, director"
+1875,1054,Musical Institutes,Boston Conservatory of Music,154 Tremont,Boston,MA,42.35464,-71.06336,"Julius Elchberg, director"
 1875,1054,Musical Institutes,Boston Music School,25 Eliot,Boston,MA,42.351481,-71.067338,J. W. Adams
 1875,1054,Musical Institutes,Boston University College of  Music,Music Hall,Boston,MA,42.35623,-71.06083,"Eben Tourjee, dean"
 1875,1054,Musical Institutes,Central Conservatory of Music,812 Washington,Boston,MA,42.34930,-71.06373,J. W. Cheeney
@@ -251,7 +251,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1054,Musical Instrument Makers,"White, Irving E.",83 Sudbury,Boston,MA,42.36251,-71.058066,Drums
 1875,1054,Musical Instrument Makers,"White, J. H.",89 Court St,Boston,MA,42.35998,-71.05976,
 1875,1055,Newspapers (Musical),Dwight’s Journal of Music,451 Washington,Boston,MA,42.35534,-71.06077,"Fortnightly, $2, O. Ditson & Co."
-1875,1056,Newspapers (Musical),Orpheus,126 Tremont,Boston,MA,42.356449,-71.061737,"Monthly, $1, G. D. Russell & Co."
+1875,1056,Newspapers (Musical),Orpheus,126 Tremont,Boston,MA,42.35646,-71.06181,"Monthly, $1, G. D. Russell & Co."
 1875,1058,Opera & Spy Glasses,"Ailman, John H.",14 Bromfield,Boston,MA,42.356496,-71.059988,
 1875,1058,Opera & Spy Glasses,"Palmer, Bachelder, Co.",394 Washington,Boston,MA,42.35595,-71.05977,
 1875,1059,Organ and Melodeon Builders’ Supplies,"Clapp, C. M. & Co.",183 Devonshire,Boston,MA,42.356012,-71.05751,Rubber
@@ -265,16 +265,16 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1059,Organ Builders,"Brooks, George F.",5 Temple Place,Boston,MA,42.355507,-71.062896,"Dπ. and concert organist, sole agent for Geo. Jardine’s celebrated church organs."
 1875,1059,Organ Builders,"Chard, Granville",569 Washington,Boston,MA,42.35356,-71.06255,
 1875,1059,Organ Builders,"Gerrish, Wm. H.",2062 Washington,Boston,MA,42.33278,-71.08093,Cabinet
-1875,1059,Organ Builders,"Hook, E. & G. G. & Hastings",1131 Tremont,Boston,MA,42.335545,-71.088189,
+1875,1059,Organ Builders,"Hook, E. & G. G. & Hastings",1131 Tremont,Boston,MA,42.33529,-71.08829,
 1875,1059,Organ Builders,"Hunt, C. B. & Co.",101 Bristol,Boston,MA,42.34235,-71.06336,
 1875,1059,Organ Builders,"Hutchings, Praisted, & Co.",N. Grove St,Boston,MA,42.36128,-71.06871,Corner of Cambridge St. Pipe
-1875,1059,Organ Builders,Mason & Hamlin Organ Co.,154 Tremont,Boston,MA,42.354783,-71.063742,Cabinet
+1875,1059,Organ Builders,Mason & Hamlin Organ Co.,154 Tremont,Boston,MA,42.35464,-71.06336,Cabinet
 1875,1059,Organ Builders,New England Organ Co.,1290 Washington,Boston,MA,42.34198,-71.06786,Cabinet
 1875,1059,Organ Builders,"Ryder, George H.",441 Tremont,Boston,MA,42.346807,-71.069421,
 1875,1059,Organ Builders,"Simmons, W. B. D. & Co.",190 Charles,Boston,MA,42.360803,-71.071026,Pipe
 1875,1059,Organ Builders,The Smith American Organ Co.,Tremont St,Boston,MA,42.34436,-71.07177,Opposite Waltham
 1875,1059,Organ Builders,"Woods, Geo. & Co.",608 Washington,Boston,MA,42.35269,-71.06242,
-1875,1059,Organ Keys,"Whitney, Milo",102 W. Brookline,Boston,MA,42.342009,-71.075556,
+1875,1059,Organ Keys,"Whitney, Milo",102 W. Brookline,Boston,MA,42.34106,-71.07340,
 1875,1059,Organ Pipes,"Symonds, S. C.",N. Grove St,Boston,MA,42.36128,-71.06871,Corner of Cambridge St. 
 1875,1059,Organ Stop Makers,"Hodges, L. L.",106 Sudbury,Boston,MA,42.362179,-71.059466,
 1875,1067,Piano Stools,"Guild, Church, & Co.",1125 Washington,Boston,MA,42.34410,-71.06590,
@@ -294,13 +294,13 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1067,Piano-forte Tuners,"Allen, John",455 Washington,Boston,MA,42.35531,-71.06083,
 1875,1067,Piano-forte Tuners,"Bancroft, F. J.",451 Washington,Boston,MA,42.35534,-71.06077,
 1875,1067,Piano-forte Tuners,"Barlow, L. D.",3 Bedford,Boston,MA,42.3542,-71.06168,
-1875,1067,Piano-forte Tuners,"Bartlett, W. B.",156 Tremont,Boston,MA,42.355358,-71.063307,
-1875,1067,Piano-forte Tuners,"Bauer, Charles T.",156 Tremont,Boston,MA,42.355358,-71.063307,
+1875,1067,Piano-forte Tuners,"Bartlett, W. B.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1875,1067,Piano-forte Tuners,"Bauer, Charles T.",156 Tremont,Boston,MA,42.35455,-71.06341,
 1875,1067,Piano-forte Tuners,"Bourne, C. C.",451 Washington,Boston,MA,42.35534,-71.06077,
 1875,1067,Piano-forte Tuners,"Brown, Geo H.",690 Washington,Boston,MA,42.35128,-71.06276,
 1875,1067,Piano-forte Tuners,"Burnham, R. W.",484 Washington,Boston,MA,42.35456,-71.06132,
 1875,1067,Piano-forte Tuners,"Callender, W. R.",95 Winthrop,Boston,MA,42.32368,-71.07673,
-1875,1067,Piano-forte Tuners,"Carney, F. H.",156 Tremont,Boston,MA,42.355358,-71.063307,
+1875,1067,Piano-forte Tuners,"Carney, F. H.",156 Tremont,Boston,MA,42.35455,-71.06341,
 1875,1067,Piano-forte Tuners,"Chelius, Julius",595 Washington,Boston,MA,42.35312,-71.06268,
 1875,1067,Piano-forte Tuners,"Cottle, N. P.",595 Washington,Boston,MA,42.35312,-71.06268,
 1875,1067,Piano-forte Tuners,"Cutting, G. E.",569 Washington,Boston,MA,42.35356,-71.06255,
@@ -340,7 +340,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1067,Piano-fortes,"Brigham, D. S.",715 Washington,Boston,MA,42.350699,-71.06336,
 1875,1067,Piano-fortes,"Brooks, S. P.",65 Sudbury,Boston,MA,42.362482,-71.058112,
 1875,1067,Piano-fortes,Burrell & Dennett,77 Plympton,Boston,MA,42.338345,-71.067718,Tops
-1875,1067,Piano-fortes,Chickering & Sons,156 Tremont,Boston,MA,42.355358,-71.063307,
+1875,1067,Piano-fortes,Chickering & Sons,156 Tremont,Boston,MA,42.35455,-71.06341,
 1875,1067,Piano-fortes,"Clapp, E. M.",732 Washington,Boston,MA,42.35035,-71.06316,
 1875,1067,Piano-fortes,"Colley, B. E. & Co.",756 Washington,Boston,MA,42.35001,-71.06331,
 1875,1067,Piano-fortes,"Curtiss, Nathan P. B.",74 Tremont,Boston,MA,42.35751,-71.060102,
@@ -381,7 +381,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1070,Printers of Music,"Lentest, T. H.",21 School,Boston,MA,42.35766,-71.05891,
 1875,1070,Printers of Music,"Loughlin, J. F.",36 Winter,Boston,MA,42.35590,-71.06166,Book and music
 1875,1070,Printers of Music,"White, D. L.",517 Washington,Boston,MA,42.35422,-71.06198,
-1875,1089,Teachers of Music,"Adams, G. A.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1089,Teachers of Music,"Adams, G. A.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1089,Teachers of Music,"Adams, J. W.",22 Eliot,Boston,MA,42.351191,-71.067419,
 1875,1089,Teachers of Music,"Alexander, H. W.",135 Pembroke,Boston,MA,42.34324,-71.07717,
 1875,1089,Teachers of Music,"Allen, Annie M., Miss",5 Pacific,Boston,MA,42.33411,-71.04573,Piano
@@ -402,7 +402,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1089,Teachers of Music,"Bancroft, S. A.",147 Tremont,Boston,MA,42.355111,-71.063003,
 1875,1089,Teachers of Music,"Barker, Geo. F.",47 Monmouth,Boston,MA,42.37999,-71.03713,
 1875,1089,Teachers of Music,"Barret, Ellen D., Miss",Boylston,Boston,MA,42.31702,-71.10469,"Near Station, Ward 17. Singing"
-1875,1089,Teachers of Music,"Bartlett, J. C.",149A Tremont,Boston,MA,42.331858,-71.096492,Room 65
+1875,1089,Teachers of Music,"Bartlett, J. C.",149A Tremont,Boston,MA,42.35501,-71.06322,Room 65
 1875,1089,Teachers of Music,"Battles, C. P.","Commercial St,",Boston,MA,42.30383,-71.05432,"Near Beach St, Harrison Square."
 1875,1089,Teachers of Music,"Bean, H. E., Miss",4 Terrace Pl.,Boston,MA,42.3297,-71.09722,
 1875,1089,Teachers of Music,"Bemis, Geo.",106 Court,Boston,MA,42.36066,-71.06069,
@@ -411,7 +411,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1089,Teachers of Music,"Blanchard, E. A.",381 Columbus Avenue,Boston,MA,42.345228,-71.076165,
 1875,1089,Teachers of Music,"Bonnet, Alexis G.",10 Sawyer,Boston,MA,42.33565,-71.08119,
 1875,1089,Teachers of Music,"Bonnet, M. A.",517 Washington,Boston,MA,42.35422,-71.06198,
-1875,1089,Teachers of Music,"Boscowitz, F.",154 Tremont,Boston,MA,42.354783,-71.063742,and 25 Winter
+1875,1089,Teachers of Music,"Boscowitz, F.",154 Tremont,Boston,MA,42.35464,-71.06336,and 25 Winter
 1875,1089,Teachers of Music,"Boscowitz, F.",25 Winter,Boston,MA,42.355999,-71.061369,and 154 Tremont
 1875,1089,Teachers of Music,Boston Music School,22 Eliot,Boston,MA,42.351191,-71.067419,
 1875,1089,Teachers of Music,"Brehm, M. D., Miss",8 Dwight,Boston,MA,42.34393,-71.06822,
@@ -419,7 +419,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1089,Teachers of Music,"Brooks, Geo. F.",5 Temple Place,Boston,MA,42.355507,-71.062896,or 451 Washington. Concert organist and professor of piano-forte.
 1875,1089,Teachers of Music,"Brown, E. A.",517 Washington,Boston,MA,42.35422,-71.06198,Violin
 1875,1089,Teachers of Music,"Brown, Henry C.",220 Washington,Boston,MA,42.35844,-71.05772,cornet
-1875,1089,Teachers of Music,"Brown, O. B.",126 Tremont,Boston,MA,42.356449,-71.061737,
+1875,1089,Teachers of Music,"Brown, O. B.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1875,1089,Teachers of Music,"Browne, J. W., Mrs.",267 Shawmut Avenue,Boston,MA,42.3432,-71.06913,
 1875,1089,Teachers of Music,"Browne, Laura L., Miss",267 Shawmut Avenue,Boston,MA,42.3432,-71.06913,
 1875,1089,Teachers of Music,"Buck, Dudley",277 Washington,Boston,MA,42.35763,-71.05830,
@@ -434,18 +434,18 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1089,Teachers of Music,"Cheeney, J. W.",812 Washington,Boston,MA,42.34930,-71.06373,
 1875,1089,Teachers of Music,"Chelius, Geo. A.",104 Kendall,Boston,MA,42.33771,-71.082862,
 1875,1089,Teachers of Music,"Chelius, H. P.",104 Kendall,Boston,MA,42.33771,-71.082862,
-1875,1089,Teachers of Music,"Cheney, C.",149A Tremont,Boston,MA,42.331858,-71.096492,
-1875,1089,Teachers of Music,"Cirillo, Vincenzo",125 Tremont,Boston,MA,42.356533,-71.061711,Voice
+1875,1089,Teachers of Music,"Cheney, C.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1875,1089,Teachers of Music,"Cirillo, Vincenzo",125 Tremont,Boston,MA,42.35648,-71.06176,Voice
 1875,1089,Teachers of Music,"Claus, J. B.",517 Washington,Boston,MA,42.35422,-71.06198,
 1875,1089,Teachers of Music,"Clouston, R. H., Jr.",8 Millmont,Boston,MA,42.328203,-71.091707,
-1875,1089,Teachers of Music,"Colburn, B. F.",149A Tremont,Boston,MA,42.331858,-71.096492,
+1875,1089,Teachers of Music,"Colburn, B. F.",149A Tremont,Boston,MA,42.35501,-71.06322,
 1875,1089,Teachers of Music,"Collins, Julia A.",Adams,Boston,MA,42.27220,-71.06802,"Near Washington, Lower Mills."
 1875,1089,Teachers of Music,"Craig, Lucy J., Miss",Chickatawbut,Boston,MA,42.28632,-71.04851,Neponset
 1875,1089,Teachers of Music,"Crane, Fred. L.",517 Washington,Boston,MA,42.35422,-71.06198,
 1875,1089,Teachers of Music,"Crawford, Kate",209 W. Springfield,Boston,MA,42.34056,-71.08021,
 1875,1089,Teachers of Music,"Currier, T. P.",81 High,Boston,MA,42.37725,-71.06465,Charlestown
 1875,1089,Teachers of Music,"Davenport, J. C., Miss",Clapp Place,Boston,MA,42.32161,-71.05994,Ward 16
-1875,1089,Teachers of Music,"Davis, Willard W.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1089,Teachers of Music,"Davis, Willard W.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1089,Teachers of Music,"De La Motte, G., Mdlle.",9 Malden,Boston,MA,42.339881,-71.068324,
 1875,1089,Teachers of Music,"De Ribas, A. L.",196 Shawmut Avenue,Boston,MA,42.344603,-71.06674,
 1875,1090,Teachers of Music,"Bray, W. M.",3 Tremont Row,Boston,MA,42.36037,-71.06052,
@@ -456,13 +456,13 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Downes, I. H. K.",60 Sullivan,Boston,MA,42.37907,-71.06524,Charlestown
 1875,1090,Teachers of Music,"Dresel, Otto",131 Charles,Boston,MA,42.36001,-71.07057,
 1875,1090,Teachers of Music,"Drusel, Geo.",65 Indiana Place,Boston,MA,42.34771,-71.06757,
-1875,1090,Teachers of Music,"Dudley, Geo. W.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Dudley, Geo. W.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Duffy, J. G.",14 Cox Building,Boston,MA,42.32935,-71.08974,
 1875,1090,Teachers of Music,"Dugan, J., Miss",18 Ashburton Place,Boston,MA,42.359051,-71.062782,
 1875,1090,Teachers of Music,"Dwelshauvers, C.",30 Vinton,Boston,MA,42.32968,-71.05366,Piano
 1875,1090,Teachers of Music,"Dwight, John S.",451 Washington,Boston,MA,42.35534,-71.06077,
 1875,1090,Teachers of Music,"Eckstadt, Katy, Miss",Heath,Boston,MA,42.32618,-71.09998,Near R.R.
-1875,1090,Teachers of Music,"Eichberg, Julius",154 Tremont,Boston,MA,42.354783,-71.063742,"Director, Boston Conservatory of Music"
+1875,1090,Teachers of Music,"Eichberg, Julius",154 Tremont,Boston,MA,42.35464,-71.06336,"Director, Boston Conservatory of Music"
 1875,1090,Teachers of Music,"Eicher, Chas. H.",75 E. Brookline,Boston,MA,42.337719,-71.070474,
 1875,1090,Teachers of Music,"Eichler, J. F.",61 Melrose,Boston,MA,42.348649,-71.068816,
 1875,1090,Teachers of Music,"Eltz, Paul",14 Milford,Boston,MA,42.34393,-71.06974,
@@ -505,7 +505,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Haskell, Harriet E.",School,Boston,MA,42.31603,-71.10085,"Near Arcadia, Jamaica Plain. Piano."
 1875,1090,Teachers of Music,"Hayden, W. L.",120 Tremont,Boston,MA,42.356713,-71.061154,"Guitar, flute, and piano."
 1875,1090,Teachers of Music,"Henderson, Charles",77 Warren Avenue,Boston,MA,42.344903,-71.072942,
-1875,1090,Teachers of Music,"Hill, Junius W.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Hill, Junius W.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Hill, Sophronia E., Mrs.",Seaverns Avenue,Boston,MA,42.31184,-71.11127,Jamaica Plain. (House)
 1875,1090,Teachers of Music,"Hills, J. A.",Music Hall,Boston,MA,42.35623,-71.06083,Music Hall
 1875,1090,Teachers of Music,"Holbrook, A. F., Mrs.",Hancock,Boston,MA,42.31357,-71.06523,"Corner of Glendale, Ward 16."
@@ -521,20 +521,20 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Jewell, Fred. A.",5 Wadleigh Place,Boston,MA,42.330677,-71.058665,
 1875,1090,Teachers of Music,"Jocelyn, Wm. R.",63 East Newton,Boston,MA,42.336891,-71.071636,
 1875,1090,Teachers of Music,"Johnson, James C.",451 Washington,Boston,MA,42.35534,-71.06077,
-1875,1090,Teachers of Music,"Johnston, C. C., Miss",143 Tremont,Boston,MA,42.331849,-71.096445,
+1875,1090,Teachers of Music,"Johnston, C. C., Miss",143 Tremont,Boston,MA,42.35543,-71.06287,
 1875,1090,Teachers of Music,"Kempton, Jennie T., Mrs.",517 Washington,Boston,MA,42.35422,-71.06198,
 1875,1090,Teachers of Music,"Kent, Eloiss",10 Rockland,Boston,MA,42.32152,-71.08381,
 1875,1090,Teachers of Music,"Keyes, William W.",396 Main St,Boston,MA,42.38003,-71.06999,Charlestown
 1875,1090,Teachers of Music,"Kielblock, A.",Bowdoin Square,Boston,MA,42.36148,-71.06184,Coolidge House
 1875,1090,Teachers of Music,"Krauss, J. F.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
-1875,1090,Teachers of Music,"Lewis, Chas., Mrs.",154 Tremont,Boston,MA,42.354783,-71.063742,Singing
+1875,1090,Teachers of Music,"Lewis, Chas., Mrs.",154 Tremont,Boston,MA,42.35464,-71.06336,Singing
 1875,1090,Teachers of Music,"Lewis, Frederick E.",12 Milton,Boston,MA,42.280087,-71.059971,
 1875,1090,Teachers of Music,"Lincoln, George",63 Bunker Hill,Boston,MA,42.376652,-71.056667,Piano
 1875,1090,Teachers of Music,"Little, M., Mrs.",14 Edinboro,Boston,MA,42.352434,-71.059659,
-1875,1090,Teachers of Music,"Locke, Orren E.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Locke, Orren E.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Lombard, E. W., Miss",169 Charles,Boston,MA,42.360766,-71.070723,
 1875,1090,Teachers of Music,"Long, J. H., Mrs.",21 Holyoke,Boston,MA,42.34495,-71.07787,
-1875,1090,Teachers of Music,"Lothian, N.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Lothian, N.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Lougee, M. L., Miss",4 Warren Place,Boston,MA,42.327843,-71.083024,Ward 14
 1875,1090,Teachers of Music,"Maggi, A. C.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
 1875,1090,Teachers of Music,"Main, F. W.",503 Washington,Boston,MA,42.35452,-71.06165,
@@ -553,7 +553,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Munson, J. S.",Lamartine,Boston,MA,42.31142,-71.10867,"Near Green, Jamaica Plain, Ward 17. Vocal."
 1875,1090,Teachers of Music,"Nordstrom, A.",41 Hanover,Boston,MA,42.36069,-71.05914,
 1875,1090,Teachers of Music,"Oliver, E. B.",5 Columbus Square,Boston,MA,42.34322,-71.07769,
-1875,1090,Teachers of Music,"Osgood, George L.",149A Tremont,Boston,MA,42.331858,-71.096492,Rooms 16 and 17
+1875,1090,Teachers of Music,"Osgood, George L.",149A Tremont,Boston,MA,42.35501,-71.06322,Rooms 16 and 17
 1875,1090,Teachers of Music,"Paige, J. B., Mrs.",88 Dover,Boston,MA,42.34422,-71.06638,
 1875,1090,Teachers of Music,"Paine, John K.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
 1875,1090,Teachers of Music,"Paine, Sarah E.",1 Rockville Place,Boston,MA,42.32442,-71.08234,Voice
@@ -568,7 +568,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Petersilea, Franz",517 Washington,Boston,MA,42.35422,-71.06198,
 1875,1090,Teachers of Music,"Pierce, Grace C., Miss",51 Cabot,Boston,MA,42.333215,-71.087911,
 1875,1090,Teachers of Music,"Pinckney, Hattie H., Mrs.",81 Joy,Boston,MA,42.36079,-71.06499,
-1875,1090,Teachers of Music,"Porter, A. W., MIrs.",149A Tremont,Boston,MA,42.331858,-71.096492,
+1875,1090,Teachers of Music,"Porter, A. W., MIrs.",149A Tremont,Boston,MA,42.35501,-71.06322,
 1875,1090,Teachers of Music,"Pratt, Elliot W.",319 Beacon,Boston,MA,42.35259,-71.08209,
 1875,1090,Teachers of Music,"Proeschold, Carl. H.",Fountain Hill,Boston,MA,42.32445,-71.08477,
 1875,1090,Teachers of Music,"Rametti, Joseph",342 Tremont,Boston,MA,42.34847,-71.06586,
@@ -584,11 +584,11 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Schlimper, F. W. r.",5 Boylston Place,Boston,MA,42.35181,-71.06617,
 1875,1090,Teachers of Music,"Schmitt, Susie M., Mrs.",18 Boylston Place,Boston,MA,42.351879,-71.066134,
 1875,1090,Teachers of Music,"Scipp, J. H.",209 West Second Street,Boston,MA,42.340967,-71.05084,
-1875,1090,Teachers of Music,"Sharland, J. B.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Sharland, J. B.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Shea, R. W.",10 Sterling,Boston,MA,42.326442,-71.055216,
 1875,1090,Teachers of Music,"Shedd, E. D., Miss",25 City Square,Boston,MA,42.372127,-71.061432,Charlestown
 1875,1090,Teachers of Music,"Shutlze, E. A.",Arcadia,Boston,MA,42.31608,-71.10066,"Near School, Ward 17. Violin and Singing."
-1875,1090,Teachers of Music,"Smalley, L. J.",149A Tremont,Boston,MA,42.331858,-71.096492,
+1875,1090,Teachers of Music,"Smalley, L. J.",149A Tremont,Boston,MA,42.35501,-71.06322,
 1875,1090,Teachers of Music,"Smith, Emira, Miss",122 Mt. Vernon,Boston,MA,42.357665,-71.070139,Piano
 1875,1090,Teachers of Music,"Smith, Henry J.",31 Worcester Square,Boston,MA,42.33615,-71.07447,
 1875,1090,Teachers of Music,"Smith, Henry M.",344 Shawmut Avenue,Boston,MA,42.3415,-71.07134,
@@ -598,7 +598,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Stein, J. A.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
 1875,1090,Teachers of Music,"Stevens, Eliza W.",Dunreath Place,Boston,MA,42.32275,-71.08196,Near Warren
 1875,1090,Teachers of Music,"Stevens, Isaac",86 Magazine,Boston,MA,42.326913,-71.071361,
-1875,1090,Teachers of Music,"Stoehr, William",1086 Tremont,Boston,MA,42.335759,-71.086619,
+1875,1090,Teachers of Music,"Stoehr, William",1086 Tremont,Boston,MA,42.33565,-71.08676,
 1875,1090,Teachers of Music,"Stone, A. H.",5 Melrose Place,Boston,MA,42.34937,-71.06729,
 1875,1090,Teachers of Music,"Suck, A.",Catawba,Boston,MA,42.31980,-71.08316,Near Sherman
 1875,1090,Teachers of Music,"Suck, Charles",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
@@ -606,13 +606,13 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Sumner, G. W.",48 Boylston,Boston,MA,42.35216,-71.06399,
 1875,1090,Teachers of Music,"Swan, A. W.",Adams,Boston,MA,42.27520,-71.06190,"Near Richmond, Lower Mills."
 1875,1090,Teachers of Music,"Swett, Maria W., Miss",5 Lovering Place,Boston,MA,42.34603,-71.06406,
-1875,1090,Teachers of Music,"Thayer, E.",154 Tremont,Boston,MA,42.354783,-71.063742,
-1875,1090,Teachers of Music,"Titus, Geo. R.",149A Tremont,Boston,MA,42.331858,-71.096492,
+1875,1090,Teachers of Music,"Thayer, E.",154 Tremont,Boston,MA,42.35464,-71.06336,
+1875,1090,Teachers of Music,"Titus, Geo. R.",149A Tremont,Boston,MA,42.35501,-71.06322,
 1875,1090,Teachers of Music,"Tompson, C. H.",282 Washington,Boston,MA,42.35744,-71.05814,
-1875,1090,Teachers of Music,"Torrens, l. A.",149A Tremont,Boston,MA,42.331858,-71.096492,
-1875,1090,Teachers of Music,"Torricelli, J. B.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Torrens, l. A.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1875,1090,Teachers of Music,"Torricelli, J. B.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Tourjee, Eben",Music Hall,Boston,MA,42.35623,-71.06083,"Director New England Conservatory of Music, Music Hall"
-1875,1090,Teachers of Music,"Tracy, J. M.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Tracy, J. M.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Tucker, H. G.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
 1875,1090,Teachers of Music,"Tufts, John W.",1 Hollis Place,Boston,MA,42.351678,-71.135547,
 1875,1090,Teachers of Music,"Underwood, Mary, Miss",758 East Fourth Street,Boston,MA,42.334946,-71.033991,
@@ -620,7 +620,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Walker, Russ B.",24 Dwight,Boston,MA,42.34414,-71.06876,
 1875,1090,Teachers of Music,"Walker, S. E.",Walnut,Boston,MA,42.28863,-71.03992,"Corner of Water, Neponset"
 1875,1090,Teachers of Music,"Warren, Alfred E.",514 Washington,Boston,MA,42.35414,-71.06175,
-1875,1090,Teachers of Music,"Washburn, A. N.",149A Tremont,Boston,MA,42.331858,-71.096492,
+1875,1090,Teachers of Music,"Washburn, A. N.",149A Tremont,Boston,MA,42.35501,-71.06322,
 1875,1090,Teachers of Music,"Washington, R. M., Miss",5 Smith Court,Boston,MA,42.360127,-71.065531,Ward 6
 1875,1090,Teachers of Music,"Weber, Ernest",12 Kendall,Boston,MA,42.337639,-71.082943,
 1875,1090,Teachers of Music,"Wenzel, Ivan P.",5 Linden,Boston,MA,42.33434,-71.04481,
@@ -633,15 +633,15 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1875,1090,Teachers of Music,"Whitmore, O. A.",282 Washington,Boston,MA,42.35744,-71.05814,
 1875,1090,Teachers of Music,"Whitney, F. P., Mrs.",5 St. Charles,Boston,MA,42.34716,-71.07185,
 1875,1090,Teachers of Music,"Whitney, H. L.",Music Hall,Boston,MA,42.35623,-71.06083,New England Conservatory of Music
-1875,1090,Teachers of Music,"Whitney, S. B.",125 Tremont,Boston,MA,42.356533,-71.061711,Organ and Piano
-1875,1090,Teachers of Music,"Wilde, H.",154 Tremont,Boston,MA,42.354783,-71.063742,
+1875,1090,Teachers of Music,"Whitney, S. B.",125 Tremont,Boston,MA,42.35648,-71.06176,Organ and Piano
+1875,1090,Teachers of Music,"Wilde, H.",154 Tremont,Boston,MA,42.35464,-71.06336,
 1875,1090,Teachers of Music,"Wilder, L. L., Mrs.",1222 Washington,Boston,MA,42.34279,-71.06673,
 1875,1090,Teachers of Music,"Willis, Wm. H.",348 Harrison Avenue,Boston,MA,42.345169,-71.062833,
 1875,1090,Teachers of Music,"Worth, R. W., Miss",192 Walnut Avenue,Boston,MA,42.31961,-71.08908,
 1875,1090,Teachers of Music,"Wright, J. S.",39 State Street,Boston,MA,42.358725,-71.05689,Room 22
 1875,1090,Teachers of Music,"Young, Fred. H.",Neponset Avenue,Boston,MA,42.29595,-71.05452,"Near Mill, Ward 16."
 1875,1090,Teachers of Music,"Zerrahn, Carl",451 Washington,Boston,MA,42.35534,-71.06077,
-1885,1314,Music Dealers and Publishers,Automatic Music Paper Co.,233 Cambridge,Boston,MA,42.361341,-71.06706,
+1885,1314,Music Dealers and Publishers,Automatic Music Paper Co.,233 Cambridge,Boston,MA,42.36133,-71.07039,
 1885,1314,Music Dealers and Publishers,"Blake, Charles D. & Co.",488 Washington,Boston,MA,42.35447,-71.06139,
 1885,1314,Music Dealers and Publishers,"Blanchard, L. A.",13 Tremont Row,Boston,MA,42.36000,-71.06019,
 1885,1314,Music Dealers and Publishers,"Cundy, W. H.",55 Court St,Boston,MA,42.359228,-71.058879,
@@ -655,7 +655,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1885,1314,Music Dealers and Publishers,"Prufer, Carl",34 West St,Boston,MA,42.35484,-71.063087,
 1885,1314,Music Dealers and Publishers,"Ripley, W. S.",88 Court St,Boston,MA,42.36043,-71.06023,
 1885,1314,Music Dealers and Publishers,"Ross, Louis H. & Co.",3 West St,Boston,MA,42.354213,-71.061696,
-1885,1314,Music Dealers and Publishers,"Russell, Joseph M.",126 Tremont,Boston,MA,42.356449,-71.061737,
+1885,1314,Music Dealers and Publishers,"Russell, Joseph M.",126 Tremont,Boston,MA,42.35646,-71.06181,
 1885,1314,Music Dealers and Publishers,"Samuels, E. A.",25 Congress,Boston,MA,42.358342,-71.056681,
 1885,1314,Music Dealers and Publishers,"Schmidt, A. P. & Co.",13 West St,Boston,MA,42.354747,-71.062111,And 15 West St
 1885,1314,Music Dealers and Publishers,"Schmidt, A. P. & Co.",15 West St,Boston,MA,42.35474,-71.06211,And 13 West St
@@ -666,13 +666,567 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1885,1314,Music Dealers’ Goods,Harrell Mfg. Co.,11 Otis,Boston,MA,42.356936,-71.072352,
 1885,1314,Music Dealers’ Goods,Heath’s Letter File,,Wakefield,MA,42.50689,-71.07201,"Factory at Wakefield, Mass."
 1885,1314,Music Engravers’ Tools,"Hatch, H. & Co.",186 Washington,Boston,MA,42.35926,-71.05766,
+1885,1314,Music Stands,"Richardson, B. F.",13 Bowker,Boston,MA,,,
+1885,1314,Music Stands,"White, Eugene A.",352 Atlantic Ave.,Boston,MA,42.35669,-71.049728,
+1885,1314,Music Title Engravers,"Seaverns, Alexander H.",11 Hamilton Pl.,Boston,MA,42.356753,-71.061688,
+1885,1314,Musical Instruments,American Mercantile Co.,50 Cornhill,Boston,MA,42.359537,-71.058661,
+1885,1314,Musical Instruments,"Baker, B. F.",486 Harrison Ave.,Boston,MA,42.342197,-71.065741,Upright pianos
+1885,1314,Musical Instruments,"Bates, G. H. W. & Co.",106 Sudbury,Boston,MA,42.362239,-71.059367,
+1885,1314,Musical Instruments,Boston Musical Instrument Manuf.,71 Sudbury,Boston,MA,42.362491,-71.058096,
+1885,1314,Musical Instruments,Boston Piano Co. ,18 Essex,Boston,MA,42.35257,-71.06205,Organs and pianos
+1885,1314,Musical Instruments,Boyle Bros.,753 Washington,Boston,MA,42.35025,-71.06354,
+1885,1314,Musical Instruments,"Cloos, William H.",103 Court St,Boston,MA,42.36040,-71.06005,Manuf.
+1885,1314,Musical Instruments,"Daniels, G. W.",48 Hanover,Boston,MA,42.361918,-71.057217,Rm. D. Violins
+1885,1314,Musical Instruments,"Delano, E. F.",78 Tremont,Boston,MA,42.357507,-71.060521,
+1885,1314,Musical Instruments,"Dobson, George C.",290 Shawmut Ave.,Boston,MA,42.3427,-71.06932,Banjos and guitars
+1885,1314,Musical Instruments,"Enders, G.",103 Court St,Boston,MA,42.36040,-71.06005,Repairer
+1885,1314,Musical Instruments,Fairbanks & Cole,121 Court St,Boston,MA,42.36076,-71.06028,Banjos
+1885,1314,Musical Instruments,"Gately, M. R.",233 Cambridge,Boston,MA,42.36133,-71.07039,Automatic organ
+1885,1314,Musical Instruments,"Hall, D. C.",103 Court St,Boston,MA,42.36040,-71.06005,
+1885,1314,Musical Instruments,"Hall, Hudson L.",18 Decatur,Boston,MA,42.372992,-71.040747,East Boston. Zitherns
+1885,1314,Musical Instruments,"Hayes, John B.",2169 Washington,Boston,MA,42.33145,-71.08246,
+1885,1314,Musical Instruments,"Lane, George M.",178 Washington,Boston,MA,42.35928,-71.05761,
+1885,1314,Musical Instruments,"Leach, A. A.",578 Washington,Boston,MA,42.35326,-71.06235,Orguinettes
+1885,1314,Musical Instruments,New England Organ Co.,1299 Washington,Boston,MA,42.34208,-71.06825,
+1885,1314,Musical Instruments,"Newell, F. H.",79 Milk,Boston,MA,42.35665,-71.05651,Room 14
+1885,1314,Musical Instruments,"Oettinger, A. J.",5 Mason,Boston,MA,42.354891,-71.062847,
+1885,1314,Musical Instruments,"Richardson, B. F.",13 Bowker,Boston,MA,42.362554,-71.060912,
+1885,1314,Musical Instruments,Standard Band Instrument Co.,62 Sudbury,Boston,MA,42.362734,-71.058274,
+1885,1314,Musical Instruments,"Story, Charles W.",26 Central,Boston,MA,42.375247,-71.038651,
+1885,1314,Musical Instruments,"Stratton, G. W. & Co.",21 Hanover,Boston,MA,42.361408,-71.057432,
+1885,1314,Musical Instruments,"Washburn, M.",Abattoir grounds,Boston,MA,42.35974,-71.14953,"Brighton, drum manuf."
+1885,1314,Musical Instruments,"Weeman, Orin",544 Washington,Boston,MA,42.35061,-71.06295,Violins
+1885,1314,Musical Instruments,"White, A. W.",147 Tremont,Boston,MA,42.355111,-71.063003,Violins
+1885,1314,Musical Instruments,"White, I. E.",83 Sudbury,Boston,MA,42.36251,-71.058066,Room 15. Repairer
+1885,1314,Musical Instruments,"White, J. Henry",89 Court St,Boston,MA,42.35998,-71.05976,Repairing
+1885,1314,Musical Strings,"Tuck, J. Warren",19 Harvard Pl.,Boston,MA,42.35731,-71.05927,
+1885,1316,Newspapers (Musical),Musical Observer,730 Washington,Boston,MA,42.35050,-71.06306,"Weekly, $1.00; Musical Observer Pub. Co."
+1885,1316,Newspapers (Musical),Musical Record,451 Washington,Boston,MA,42.35534,-71.06077,"Monthly, $1.80; O. Ditson & Co."
+1885,1321,Opera and Field Glasses,"Millar, Wm. K. & Co.",38 West St,Boston,MA,42.35490,-71.06298,
+1885,1321,Opera House Chairs,"Bridgman, E. B.",157 Washington,Boston,MA,42.35948,-71.05789,
+1885,1321,Opera House Chairs,Clifford & Allen,53 Fulton,Boston,MA,42.36164,-71.05358,
+1885,1321,Opera House Chairs,Harwood Mfg. Co.,91 Summer,Boston,MA,42.35385,-71.05856,
+1885,1321,Opera House Chairs,"Stuart, F. E.",101 Fulton,Boston,MA,42.362163,-71.053244,
+1885,1321,Organ and Piano Leather,"Clapp, C. M. & Co.",183 Devonshire,Boston,MA,42.356012,-71.05751,Rubber
+1885,1321,Organ and Piano Leather,"Rockwell, J. S. & Co.",18 High St,Boston,MA,42.353549,-71.056808,
+1885,1321,Organ and Piano Leather,White Brothers & Sons,151 Summer St,Boston,MA,42.352909,-71.05686,
+1885,1321,Organ Builders,American Automatic Organ Co.,35 Batterymarch,Boston,MA,42.357347,-71.053991,
+1885,1321,Organ Builders,Estey Organ Co.,601 Washington,Boston,MA,42.35303,-71.06268,
+1885,1321,Organ Builders,"Gately, M. R.",72 Pearl,Boston,MA,42.314925,-71.059043,
+1885,1321,Organ Builders,"Gerrish, William H.",147 Tremont,Boston,MA,42.355111,-71.063003,
+1885,1321,Organ Builders,Hook & Hastings,1131 Tremont,Boston,MA,42.33529,-71.08829,
+1885,1321,Organ Builders,"Hunt, C. B. & Co.",101 Bristol,Boston,MA,42.34235,-71.06336,
+1885,1321,Organ Builders,"Hutchings, Geo. S.",N. Grove St,Boston,MA,42.36128,-71.06871,Corner of Cambridge St
+1885,1321,Organ Builders,Mason & Hamlin Organ and Piano Co.,154 Tremont,Boston,MA,42.35464,-71.06336,Cabinet
+1885,1321,Organ Builders,Mass. Organ Co.,35 Batterymarch,Boston,MA,42.357347,-71.053991,
+1885,1321,Organ Builders,New England Organ Co.,1297 Washington,Boston,MA,42.34209,-71.06821,and 1299 Washington
+1885,1321,Organ Builders,New England Organ Co.,1299 Washington,Boston,MA,42.34208,-71.06825,and 1297 Washington
+1885,1321,Organ Builders,Smith American Organ Co.,531 Tremont,Boston,MA,42.344795,-71.070449,
+1885,1321,Organ Builders,Star Organ & Piano Co.,33½ Beach St,Boston,MA,42.35138,-71.06161,
+1885,1321,Organ Builders,"Woods, Geo. Co.",608 Washington,Boston,MA,42.35269,-71.06242,
+1885,1321,Organ Stop Knob Makers,"Hodges, Leonard L.",105 Haverhill,Boston,MA,42.36540,-71.06013,
+1885,1321,Orguinettes,"Leach, A. A.",578 Washington,Boston,MA,42.35326,-71.06235,
+1885,1331,Piano Case Manufacturers,Burrell & Dennett,498 Harrison Ave,Boston,MA,42.342191,-71.065771,
+1885,1331,Piano Case Manufacturers,"Wehde, Carl",58 Reed’s Block,Boston,MA,42.333614,-71.077977,
+1885,1331,Piano Dealers,"Alden, C. E.",493 Washington,Boston,MA,42.35467,-71.06152,
+1885,1331,Piano Dealers,"Baker, B. F.",486 Harrison Ave,Boston,MA,42.342197,-71.065741,Upright pianos
+1885,1331,Piano Dealers,"Batchelder, W. K.",225 Tremont,Boston,MA,42.35139,-71.06497,
+1885,1331,Piano Dealers,Beethoven Piano Rooms,465 Washington,Boston,MA,42.35513,-71.06099,
+1885,1331,Piano Dealers,"Berry, H. W.",592 Washington,Boston,MA,42.35298,-71.06233,
+1885,1331,Piano Dealers,Bijou Piano Rooms,521 Washington,Boston,MA,42.35422,-71.06202,"H. B. Nickerson, manager"
+1885,1331,Piano Dealers,"Blake, Chas. D. & Co.",488 Washington,Boston,MA,42.35447,-71.06139,
+1885,1331,Piano Dealers,Boston Piano Co.,18 Essex,Boston,MA,42.35257,-71.06205,E. Wilson & Co.
+1885,1331,Piano Dealers,"Brigham, D. S. & Co.",521 Washington,Boston,MA,42.35422,-71.06202,
+1885,1331,Piano Dealers,"Champlin, George H.",22 Boylston,Boston,MA,42.352107,-71.063131,
+1885,1331,Piano Dealers,"Clapp, E. M.",630 Washington,Boston,MA,42.35225,-71.06248,
+1885,1331,Piano Dealers,Decker Bros,601 Washington,Boston,MA,42.35303,-71.06268,Esty [sic] Organ Co. general managers for New England
+1885,1331,Piano Dealers,"Ditson, O. & Co.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1331,Piano Dealers,Emerson Piano Co.,159 Tremont,Boston,MA,42.35435,-71.06353,
+1885,1331,Piano Dealers,Estey Organ Co.,601 Washington,Boston,MA,42.35303,-71.06268,
+1885,1331,Piano Dealers,"Flaherty, Thos. & Co.",225 Tremont,Boston,MA,42.35139,-71.06497,
+1885,1331,Piano Dealers,"Getchell, George U.",634 Harrison Ave.,Boston,MA,42.339744,-71.068839,
+1885,1331,Piano Dealers,"Green, Oliver",576 Washington,Boston,MA,42.35326,-71.06236,
+1885,1331,Piano Dealers,"Guild, Church & Co.",175B Tremont,Boston,MA,42.35315,-71.06403,
+1885,1331,Piano Dealers,Hallet & Davis Piano Mfg. Co.,167 Tremont,Boston,MA,42.35388,-71.06391,and 700 Harrison Ave.
+1885,1331,Piano Dealers,Hallet & Davis Piano Mfg. Co.,700 Harrison Ave.,Boston,MA,42.338433,-71.070273,and 167 Tremont
+1885,1331,Piano Dealers,Hallett & Cumston,157 Tremont,Boston,MA,42.35446,-71.06347,
+1885,1331,Piano Dealers,"Harvey, C. C.",465 Washington,Boston,MA,42.35513,-71.06099,
+1885,1331,Piano Dealers,Harwood & Beardsley,158A Tremont,Boston,MA,42.35442,-71.06350,
+1885,1331,Piano Dealers,"Hayes, John B.",2169 Washington,Boston,MA,42.33145,-71.08246,
+1885,1331,Piano Dealers,Hunt Bros.,608 Washington,Boston,MA,42.35269,-71.06242,and organs
+1885,1331,Piano Dealers,Ivers & Pond Piano Co.,181 Tremont,Boston,MA,42.35266,-71.06424,
+1885,1331,Piano Dealers,"Miller, Henry F. & Sons Piano Co.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1331,Piano Dealers,"Newhall, Alfred (est. of)",633 Washington,Boston,MA,42.35251,-71.06271,
+1885,1331,Piano Dealers,"Norris, G. W.",604 Washington,Boston,MA,42.35277,-71.06236,
+1885,1331,Piano Dealers,"Rogers, Charles E. Piano Co.",616 Washington,Boston,MA,42.35258,-71.06237,
+1885,1331,Piano Dealers,"Steinert, M. & Sons",194 Tremont,Boston,MA,42.35219,-71.06447,"Agents Steinway & Sons, Weber & Gabler, and Haines Bros."
+1885,1331,Piano Dealers,Steinway & Sons,194 Tremont,Boston,MA,42.35219,-71.06447,
+1885,1331,Piano Dealers,"Tyler, E. W.",173 Tremont,Boston,MA,42.35336,-71.06408,
+1885,1331,Piano Dealers,"Wilson, E. & Co.",18 Essex,Boston,MA,42.35257,-71.06205,
+1885,1331,Piano Dealers,"Woods, George Co.",608 Washington,Boston,MA,42.35269,-71.06242,also organs
+1885,1331,Piano Hardware,"Darling, H. M. & Co.",632 Washington,Boston,MA,42.35219,-71.06244,
+1885,1331,Piano Hardware,"Faxon, O. J. & Co.",3 Appleton,Boston,MA,42.34672,-71.06967,
+1885,1331,Piano Hardware,"Wilson, E. & Co.",86 Utica,Boston,MA,42.349784,-71.05815,
+1885,1331,Piano Manufacturers,"Baker, B. F. Upright Pianos",486-500 Harrison Ave,Boston,MA,42.341817,-71.065597,
+1885,1331,Piano Manufacturers,"Berry, James B.",64 Warren,Boston,MA,42.328645,-71.083281,Roxbury
+1885,1331,Piano Manufacturers,"Bourne, William & Son",666 Washington,Boston,MA,42.35186,-71.06260,"and Lamartine, cor. Wyman"
+1885,1331,Piano Manufacturers,"Bourne, William & Son",Lamartine,Boston,MA,42.31901,-71.10363,"Corner of Wyman, and 666 Washington"
+1885,1331,Piano Manufacturers,"Brackett, John W.",122 Eliot,Boston,MA,42.35109,-71.06541,
+1885,1331,Piano Manufacturers,"Briggs, Charles C. & Co.",1125 Washington,Boston,MA,42.34410,-71.06590,
+1885,1331,Piano Manufacturers,"Brooks, S. P.",55½ Sudbury,Boston,MA,42.361409,-71.059251,
+1885,1331,Piano Manufacturers,Chickering & Sons,152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1331,Piano Manufacturers,"Coombs, A. T.",110 Portland,Boston,MA,42.363308,-71.06082,
+1885,1331,Piano Manufacturers,Emerson Piano Co.,159 Tremont,Boston,MA,42.35435,-71.06353,
+1885,1331,Piano Manufacturers,"Getchell, G. U.",634 Harrison Ave.,Boston,MA,42.339744,-71.068839,
+1885,1331,Piano Manufacturers,"Guild, Church, & Co.",175B Tremont,Boston,MA,42.35315,-71.06403,
+1885,1331,Piano Manufacturers,Hallet & Davis Piano Mfg. Co.,167 Tremont,Boston,MA,42.35388,-71.06391,and 700 Harrison Ave.
+1885,1331,Piano Manufacturers,Hallet & Davis Piano Mfg. Co.,700 Harrison Ave.,Boston,MA,42.338433,-71.070273,and 167 Tremont
+1885,1331,Piano Manufacturers,Hallett & Cumston,157 Tremont,Boston,MA,42.35446,-71.06347,
+1885,1332,Piano and Organ Supplies,"Faxon, O. J. & Co.",3 Appleton,Boston,MA,42.34672,-71.06967,
+1885,1332,Piano and Organ Supplies,"Marston, I. G. & Co.",3 Appleton,Boston,MA,42.34672,-71.06967,
+1885,1332,Piano and Organ Supplies,Standard Turning Works,27 Congress,Boston,MA,42.35825,-71.056777,Factory at Cambridgeport
+1885,1332,Piano and Organ Supplies,"Whitney, M.",102 W. Brookline,Boston,MA,42.34106,-71.07340,Keys
+1885,1332,Piano and Organ Supplies,"Wilson, E. & Co.",86 Utica,Boston,MA,42.349784,-71.05815,
+1885,1332,Piano and Organ Tuners,"Barker, G. F.",90 Eutaw,Boston,MA,42.379918,-71.036145,
+1885,1332,Piano and Organ Tuners,"Bauer, Chas. T.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Bourne, C. C.",516 Washington,Boston,MA,42.35407,-71.06183,
+1885,1332,Piano and Organ Tuners,"Brooks, Charles D.",601 Washington,Boston,MA,42.35303,-71.06268,
+1885,1332,Piano and Organ Tuners,"Brown, George H.",175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Burnham, R. W.",167 Tremont,Boston,MA,42.35388,-71.06391,
+1885,1332,Piano and Organ Tuners,"Carney, F. H.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Chelius, G. A. Jr.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Chelius, Henry W.",194 Tremont,Boston,MA,42.35219,-71.06447,
+1885,1332,Piano and Organ Tuners,"Cutting, Gilbert",20 Tremont St,Boston,MA,42.35880,-71.05972,
+1885,1332,Piano and Organ Tuners,"Davies, F. H.",581 Warren,Boston,MA,42.312526,-71.083371,Roxbury
+1885,1332,Piano and Organ Tuners,"Dearborn, F. W.",167 Tremont,Boston,MA,42.35388,-71.06391,
+1885,1332,Piano and Organ Tuners,"DeHuff, A. W.",157 Tremont,Boston,MA,42.35446,-71.06347,
+1885,1332,Piano and Organ Tuners,"Dolan, C. T.",Arnold St,Boston,MA,42.29512,-71.16542,West Roxbury
+1885,1332,Piano and Organ Tuners,"Doland, W. J.",14 Madison,Boston,MA,42.24722,-71.12700,
+1885,1332,Piano and Organ Tuners,"Dorn, C. J.",Maple St,Boston,MA,42.291076,-71.15697,West Roxbury
+1885,1332,Piano and Organ Tuners,"Downes, I. H. K.",60 Sullivan,Boston,MA,42.37907,-71.06524,Charlestown
+1885,1332,Piano and Organ Tuners,"Eldridge, L. M.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Franklin, Charles L.",23 Revere,Boston,MA,42.359683,-71.067178,
+1885,1332,Piano and Organ Tuners,"Gardner, H. J.",592 Washington,Boston,MA,42.35298,-71.06233,
+1885,1332,Piano and Organ Tuners,"Gooch, Wm.",516 Washington,Boston,MA,42.35407,-71.06183,
+1885,1332,Piano and Organ Tuners,"Gowell, Fred. W.",22 Newcomb,Boston,MA,42.334052,-71.078767,
+1885,1332,Piano and Organ Tuners,"Green, Chester W.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1332,Piano and Organ Tuners,"Griffin, W. E.",465 Washington,Boston,MA,42.35513,-71.06099,
+1885,1332,Piano and Organ Tuners,"Gutheridge, J. B.",Tremont St,Boston,MA,42.35227,-71.06440,Corner of Boylston
+1885,1332,Piano and Organ Tuners,"Hall, E. C.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Hallett, Clarence",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1332,Piano and Organ Tuners,"Healey, George",8 Albion,Boston,MA,42.32205,-71.07201,
+1885,1332,Piano and Organ Tuners,"Heath, Fred. A.",9 Bartlett,Boston,MA,42.36428,-71.056078,Charlestown
+1885,1332,Piano and Organ Tuners,"Hill, George F.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Hill, George H.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Hill, John L.",19 Bower,Boston,MA,42.320381,-71.086762,
+1885,1332,Piano and Organ Tuners,"Hill, William C.",601 Washington,Boston,MA,42.35303,-71.06268,
+1885,1332,Piano and Organ Tuners,"Hoeffner, Louis J.",1761 Washington,Boston,MA,42.33651,-71.07735,
+1885,1332,Piano and Organ Tuners,"Homan, Charles H.",Florence,Boston,MA,42.28655,-71.12440,West Roxbury
+1885,1332,Piano and Organ Tuners,"Horton, Wm. H.",175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Jacobs, Joshua",465 Washington,Boston,MA,42.35513,-71.06099,
+1885,1332,Piano and Organ Tuners,"Jenkins, S. B.",178 Tremont,Boston,MA,42.35292,-71.064081,
+1885,1332,Piano and Organ Tuners,"Jones, G. W.",79 Dover,Boston,MA,42.34398,-71.06652,
+1885,1332,Piano and Organ Tuners,"Josselyn, Marcus H.",184 Eustis,Boston,MA,42.328105,-71.07643,
+1885,1332,Piano and Organ Tuners,"Kingman, Jas. S.",11 Grant,Boston,MA,42.30349,-71.07551,Dorchester
+1885,1332,Piano and Organ Tuners,"Littlefield, J. A.",630 Washington,Boston,MA,42.35225,-71.06248,
+1885,1332,Piano and Organ Tuners,"Loomis, F. W.",89 Court St,Boston,MA,42.35998,-71.05976,Room 5
+1885,1332,Piano and Organ Tuners,"Lyon, Swift B.",18 Essex,Boston,MA,42.35257,-71.06205,
+1885,1332,Piano and Organ Tuners,"Marston, Norman",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1332,Piano and Organ Tuners,"Mason, W. H.",633 Washington,Boston,MA,42.35251,-71.06271,
+1885,1332,Piano and Organ Tuners,"Masseling, F. A.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1332,Piano and Organ Tuners,"Matthews, O. R.",1125 Washington,Boston,MA,42.34410,-71.06590,
+1885,1332,Piano and Organ Tuners,"Merrill, W. F.",597 Washington,Boston,MA,42.35309,-71.06268,
+1885,1332,Piano and Organ Tuners,"Murdock, J. W. E.",33½ Beach,Boston,MA,42.31821,-71.042036,
+1885,1332,Piano and Organ Tuners,"Norris, L. W.",604 Washington,Boston,MA,42.35277,-71.06236,
+1885,1332,Piano and Organ Tuners,"Oakman, Geo. W.",178 Tremont,Boston,MA,42.35292,-71.064081,
+1885,1332,Piano and Organ Tuners,"Patterson, Joseph T.",965 Parker,Boston,MA,42.32396,-71.10137,
+1885,1332,Piano and Organ Tuners,"Pelton, F. A.",19 Linden Park,Boston,MA,42.3339,-71.0448,[49 Linden Park?]
+1885,1332,Piano and Organ Tuners,"Poole, Henry J.",516 Washington,Boston,MA,42.35407,-71.06183,Church organs
+1885,1332,Piano and Organ Tuners,"Poole, James H.",175B Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Ramsay, James F.",159 Tremont,Boston,MA,42.35435,-71.06353,
+1885,1332,Piano and Organ Tuners,"Randall, Will S.",175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Raymond, Arthur M.",175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Ripley, L. G.",563 Tremont,Boston,MA,42.343953,-71.072113,
+1885,1332,Piano and Organ Tuners,"Russell, A. H.",75 Pleasant,Boston,MA,42.31337,-71.05942,
+1885,1332,Piano and Organ Tuners,"Sargent, C. E.",34 Temple Place,Boston,MA,42.355455,-71.062282,Order box
+1885,1332,Piano and Organ Tuners,"Sawtelle, Eli A.",132 Castle,Boston,MA,42.34710,-71.06715,
+1885,1332,Piano and Organ Tuners,"Singer, L.",535 Washington,Boston,MA,42.35399,-71.06227,
+1885,1332,Piano and Organ Tuners,"Walker, J. W.",18 Avery,Boston,MA,42.353133,-71.063265,
+1885,1332,Piano and Organ Tuners,"Wedger, Charles A.",61 Meridian,Boston,MA,42.37168,-71.038861,
+1885,1332,Piano and Organ Tuners,"Whitcomb, Arthur R.",175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Whitman, I. H.",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,and 592 Washington
+1885,1332,Piano and Organ Tuners,"Whitman, I. H.",592 Washington,Boston,MA,42.35298,-71.06233,and 281 Columbus Ave.
+1885,1332,Piano and Organ Tuners,"Wildes, James L.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1332,Piano and Organ Tuners,"Williams, E. E.",175B Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano and Organ Tuners,"Wilson, S. A.",608 Washington,Boston,MA,42.35269,-71.06242,
+1885,1332,Piano and Organ Tuners,"Wood, J. H.",666 Washington,Boston,MA,42.35186,-71.06260,
+1885,1332,Piano and Organ Tuners,"Woodman, B. M.",9 Parker,Boston,MA,42.3328,-71.10975,Charlestown
+1885,1332,Piano Manufacturers,Ivers & Pond Piano Co.,181 Tremont,Boston,MA,42.35266,-71.06424,
+1885,1332,Piano Manufacturers,"Lawrence, W. A. & Son",563 Tremont,Boston,MA,42.343953,-71.072113,
+1885,1332,Piano Manufacturers,Mason & Hamlin Organ and Piano Co.,154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1332,Piano Manufacturers,"McPhail, A. M. & Co.",630 Washington,Boston,MA,42.35225,-71.06248,
+1885,1332,Piano Manufacturers,"Miller, Henry F. & Sons Piano Co.",156 Tremont,Boston,MA,42.35455,-71.06341,Factory at Wakefield
+1885,1332,Piano Manufacturers,"Morris, Daniel",Dunlow Place,Boston,MA,42.33118,-71.09218,
+1885,1332,Piano Manufacturers,"Neugebauer, Emil",128 Eliot,Boston,MA,42.35109,-71.06553,
+1885,1332,Piano Manufacturers,New Eng. Piano Co.,32 George St,Boston,MA,42.327267,-71.073911,Roxbury. T. F. Scanlan
+1885,1332,Piano Manufacturers,Norris & Fletcher,2257 Washington,Boston,MA,42.33071,-71.08343,
+1885,1332,Piano Manufacturers,"Norris, George W.",604 Washington,Boston,MA,42.35277,-71.06236,
+1885,1332,Piano Manufacturers,"Pappenberger, A.",634 Harrison Ave.,Boston,MA,42.339744,-71.068839,
+1885,1332,Piano Manufacturers,"Rogers, Charles E. Piano Co.",616 Washington,Boston,MA,42.35258,-71.06237,Office
+1885,1332,Piano Manufacturers,"Steinert, M. & Sons",194 Tremont,Boston,MA,42.35219,-71.06447,Agent Steinway & Sons and Haines Bros.
+1885,1332,Piano Manufacturers,Vose & Sons,535 Washington,Boston,MA,42.35399,-71.06227,
+1885,1332,Piano Manufacturers,Woodward & Brown,175A Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano Movers,"Cook, James W.",12 Avery,Boston,MA,42.353107,-71.063441,
+1885,1332,Piano Movers,"Ellis, Samuel J.",1 Central Sq.,Boston,MA,42.374197,-71.038861,East Boston
+1885,1332,Piano Movers,"Ridlon, William",11 La Grange,Boston,MA,42.324136,-71.075967,
+1885,1332,Piano Stools,Boston Piano Stool,578 Washington,Boston,MA,42.35326,-71.06235,
+1885,1332,Piano Stools,"Guild, Church, & Co.",175B Tremont,Boston,MA,42.35315,-71.06403,
+1885,1332,Piano Stools,"Miller, Henry F. & Sons Piano Co.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1332,Piano Strings,"Tuck, J. Warren",19 Harvard Place,Boston,MA,42.356901,-71.058874,
+1885,1332,Pianos (Upright),"Baker, B. F. Upright Pianos",486 Harrison Ave.,Boston,MA,42.342197,-71.065741,
+1885,1332,Pianos (Upright),"Getchell, George U.",634 Harrison Ave.,Boston,MA,42.339744,-71.068839,
 1885,1335,Printers of Music,Blair & Lydon,298 Washington,Boston,MA,42.357237,-71.058251,
+1885,1335,Printers of Music,"Fossitt, Edward J.",125 Tremont,Boston,MA,42.35648,-71.06176,
 1885,1335,Printers of Music,"Giles, J. Frank",266 Washington,Boston,MA,42.35772,-71.05793,
-1885,1335,Printers of Music,"Gilson, F. H.",226 Franklin,Boston,MA,42.356299,-71.054767,
-1885,1335,Printers of Music,"Loughlin, J. F.",20 Hawley,Boston,MA,42.356445,-71.057987,
+1885,1335,Printers of Music,"Gilson, F. H.",226 Franklin,Boston,MA,42.35637,-71.05453,
+1885,1335,Printers of Music,"Kidder, A. B. & Son",22 Milk,Boston,MA,42.356974,-71.058184,
+1885,1335,Printers of Music,"Lenfest, T. H.",21 School,Boston,MA,42.35766,-71.05891,
+1885,1335,Printers of Music,"Loughlin, J. F.",20 Hawley,Boston,MA,42.356158,-71.058294,"Book, job, and music"
 1885,1336,Printers of Music,"Watts, Geo. G.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1362,Teachers of Music,"Abell, Edith",Music Hall,Boston,MA,42.35623,-71.06083,4 Music Hall bldg.
+1885,1362,Teachers of Music,"Adames, M. E. J., Mrs.",2930 Washington,Boston,MA,42.31887,-71.09501,
+1885,1362,Teachers of Music,"Adams, Chas. R.",159A Tremont,Boston,MA,42.35435,-71.06353,Vocal
+1885,1362,Teachers of Music,"Adams, E. Franklin",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,Piano
+1885,1362,Teachers of Music,"Aiken, George E.",179 Tremont,Boston,MA,42.35287,-71.064081,"Room 54, vocal"
+1885,1362,Teachers of Music,"Aiken, Henry M.",Boylston St,Boston,MA,42.35082,-71.07554,Hotel Bristol
+1885,1362,Teachers of Music,"Allen, C. N.",Columbus Ave,Boston,MA,42.34884,-71.07130,Hotel La Fayette
+1885,1362,Teachers of Music,"Alles, William H.",33 Hancock,Boston,MA,42.314387,-71.065851,
+1885,1362,Teachers of Music,"Ames, Lucia T.",218 W. Canton,Boston,MA,42.34519,-71.07735,
+1885,1362,Teachers of Music,"Apthorp, W. F.",8 Otis Place,Boston,MA,42.35696,-71.07236,
+1885,1362,Teachers of Music,"Ashman, J. S.",7 Salem,Boston,MA,42.362943,-71.05615,
+1885,1363,Teachers of Music,"Atwood, James B.",105 Warren Ave.,Boston,MA,42.344673,-71.073773,
+1885,1363,Teachers of Music,"Bacon, W. F.",89 Court St,Boston,MA,42.35998,-71.05976,Banjo
+1885,1363,Teachers of Music,"Bailey, E. H.",112 Berkeley,Boston,MA,42.347506,-71.072234,
+1885,1363,Teachers of Music,"Bailey, Emma F.",114 Main,Boston,MA,42.37436,-71.06377,
+1885,1363,Teachers of Music,"Bailey, Sara G.",Dorchester Ave.,Boston,MA,42.29976,-71.06036,Corner of Foster
+1885,1363,Teachers of Music,"Ball, L. W.",178 Washington,Boston,MA,42.35928,-71.05761,Room 8
+1885,1363,Teachers of Music,"Ball, O. J.",178 Washington,Boston,MA,42.35928,-71.05761,Room 8
+1885,1363,Teachers of Music,"Bancroft, S. A.",147 Tremont,Boston,MA,42.355111,-71.063003,
+1885,1363,Teachers of Music,"Barker, Geo F.",90 Eutaw,Boston,MA,42.379918,-71.036145,East Boston
+1885,1363,Teachers of Music,"Barnard, Kate F.",301 Shawmut Ave.,Boston,MA,42.34262,-71.07019,
+1885,1363,Teachers of Music,"Barrett, Ellen D.",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Barry, Flora E.",124 Chandler,Boston,MA,42.34598,-71.07404,
+1885,1363,Teachers of Music,"Bastine, J., Mrs.",14 Terrace St,Boston,MA,42.331118,-71.096177,
+1885,1363,Teachers of Music,"Behr, Charles",Chestnut Ave,Boston,MA,42.31709,-71.10680,Jamaica Plain
+1885,1363,Teachers of Music,"Bemis, Geo. W.",3 Hamilton Place,Boston,MA,42.356208,-71.06121,
+1885,1363,Teachers of Music,"Bemis, George",3½ Beacon,Boston,MA,42.35821,-71.06085,
+1885,1363,Teachers of Music,"Bendix, Otto",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Bennet, Chas. W.",121 Court St,Boston,MA,42.36076,-71.06028,Room 10
+1885,1363,Teachers of Music,"Benson, H.",Music Hall,Boston,MA,42.35623,-71.06083,14 Music Hall bldg.
+1885,1363,Teachers of Music,"Bishop, Marie",147 Tremont,Boston,MA,42.355111,-71.063003,Vocal
+1885,1363,Teachers of Music,"Blake, W. L.",14 Willard,Boston,MA,42.36581,-71.06594,
+1885,1363,Teachers of Music,"Blodgett, J. L.",179 Washington,Boston,MA,42.35918,-71.05793,
+1885,1363,Teachers of Music,"Boardman, D. W.",230 Washington,Boston,MA,42.35831,-71.05772,Cornet
+1885,1363,Teachers of Music,Boston Conservatory of Music,154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Bowser, S. S., Mrs.",Hollis Place,Boston,MA,42.351814,-71.135203,Allston
+1885,1363,Teachers of Music,"Brackett, L. F.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1363,Teachers of Music,"Bradshaw, Briggs",11 North Ave.,Boston,MA,42.32199,-71.07329,
+1885,1363,Teachers of Music,"Bradstreet, L. E., Miss",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1363,Teachers of Music,"Brayley, Geo.",125 Tremont,Boston,MA,42.35648,-71.06176,Violin
+1885,1363,Teachers of Music,"Brooks, G. F., M.D.",55½ Sudbury,Boston,MA,42.361409,-71.059251,
+1885,1363,Teachers of Music,"Brown, Henry C.",226 Washington,Boston,MA,42.35837,-71.05776,Cornet
+1885,1363,Teachers of Music,"Browne, Annie E., Miss",Boylston St,Boston,MA,42.35227,-71.06440,12 Hotel Boylston
+1885,1363,Teachers of Music,"Browne, M. A. G. L., Mrs.",67 Pembroke,Boston,MA,42.341585,-71.076114,
+1885,1363,Teachers of Music,"Bruce, Fanny E.",550 Tremont,Boston,MA,42.343895,-71.071263,
+1885,1363,Teachers of Music,"Buckingham, John D.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Bullard, Minnie G.",Music Hall,Boston,MA,42.35623,-71.06083,36 Music Hall bldg.
+1885,1363,Teachers of Music,"Butler, Justus E.",521 Washington,Boston,MA,42.35422,-71.06202,
+1885,1363,Teachers of Music,"Buxton, Ida M.",54 Berkeley,Boston,MA,42.346417,-71.070931,
+1885,1363,Teachers of Music,"Callender, Nellie, B.",96 W Concord,Boston,MA,42.33880,-71.07628,
+1885,1363,Teachers of Music,"Campanari, Leandro",28 St. Charles St,Boston,MA,42.346856,-71.072028,
+1885,1363,Teachers of Music,"Capen, C. L.",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Carlton, Charles",605 Tremont,Boston,MA,42.34314,-71.07364,
+1885,1363,Teachers of Music,"Carney, G. F.",103 Court St,Boston,MA,42.36040,-71.06005,
+1885,1363,Teachers of Music,"Carney, Philip I.",103 Court St,Boston,MA,42.36040,-71.06005,Cornet
+1885,1363,Teachers of Music,"Carpenter, Moses",180 Salem,Boston,MA,42.36656,-71.05476,
+1885,1363,Teachers of Music,"Carter, Mary E.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Carter, O. L.",51 Monument Ave.,Boston,MA,42.375064,-71.061433,
+1885,1363,Teachers of Music,"Carter, T. M.",179 Washington,Boston,MA,42.35918,-71.05793,and 23 Warren Ave.
+1885,1363,Teachers of Music,"Carter, T. M.",23 Warren Ave,Boston,MA,42.34539,-71.07108,and 179 Washington
+1885,1363,Teachers of Music,"Chadwick, G. W.",99 Boylston,Boston,MA,42.352227,-71.065221,
+1885,1363,Teachers of Music,"Cheeney, J. W.",2161 Washington,Boston,MA,42.33156,-71.08237,14 Hotel Adelphi
+1885,1363,Teachers of Music,"Chelius, George A.",104 Kendall,Boston,MA,42.33771,-71.082862,
+1885,1363,Teachers of Music,"Chenery, C.",145 Tremont,Boston,MA,42.35530,-71.06300,Vocal
+1885,1363,Teachers of Music,"Christopher, A. H., Mrs.",139 Dartmouth,Boston,MA,42.347749,-71.076001,
+1885,1363,Teachers of Music,"Clapp, Fred C.",103 Court St,Boston,MA,42.36040,-71.06005,Room 6
+1885,1363,Teachers of Music,"Claus, J. B.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Cleaveland, M. B., Miss",2 Wise,Boston,MA,42.32259,-71.10124,Jamaica Plain
+1885,1363,Teachers of Music,"Clouston, R. H., Jr.",8 Millmont,Boston,MA,42.328203,-71.091707,
+1885,1363,Teachers of Music,"Cobb, J. P.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1363,Teachers of Music,"Colburn, B. F.",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Cole, S. W.",212 Columbus Ave.,Boston,MA,42.347488,-71.073461,Room 2
+1885,1363,Teachers of Music,"Cole, William A.",121 Court St,Boston,MA,42.36076,-71.06028,Banjo
+1885,1363,Teachers of Music,"Conant, Albert F.",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Cornell, H. L.",157 Tremont,Boston,MA,42.35446,-71.06347,Room 4
+1885,1363,Teachers of Music,"Crane, Fred. L.",230 Meridian,Boston,MA,42.375667,-71.039341,
+1885,1363,Teachers of Music,"Crowell, Frank L.",Music Hall,Boston,MA,42.35623,-71.06083,20 Music Hall building
+1885,1363,Teachers of Music,"Currier, T. P.",154A Tremont,Boston,MA,42.35464,-71.06336,Room 28
+1885,1363,Teachers of Music,"Cutter, A. A.",7 Ottawa,Boston,MA,42.31929,-71.08349,
+1885,1363,Teachers of Music,"Cutter, Benj.",Franklin Sq,Boston,MA,42.33826,-71.07310,"New England Conservatory, violin"
+1885,1363,Teachers of Music,"Damm, August",30 Buckingham,Boston,MA,42.347149,-71.075108,Flute
+1885,1363,Teachers of Music,"Dana, Jeanie P.",4 Berkeley,Boston,MA,42.345203,-71.070585,
+1885,1363,Teachers of Music,"Daniell, M. Grant",11 Schuyler,Boston,MA,42.30817,-71.08482,
+1885,1363,Teachers of Music,"Daniell, W. H.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Davenport, Warren",154 Tremont,Boston,MA,42.35464,-71.06336,Vocal
+1885,1363,Teachers of Music,"Davis, J. W.",169 Tremont,Boston,MA,42.35371,-71.06391,
+1885,1363,Teachers of Music,"De Angelis, Mme.",149A Tremont,Boston,MA,42.35501,-71.06322,Room 70
+1885,1363,Teachers of Music,"De La Motte, G., Mlle.",9 Malden,Boston,MA,42.339881,-71.068324,
+1885,1363,Teachers of Music,"De Mont, Adelaide",24 Albion,Boston,MA,42.322047,-71.071964,
+1885,1363,Teachers of Music,"De Ribas, A. L.",1082 Washington,Boston,MA,42.34460,-71.06539,
+1885,1363,Teachers of Music,"De Witt, Wm. E.",342 Harrison Ave.,Boston,MA,42.345082,-71.063577,
+1885,1363,Teachers of Music,"Dennee, C. F.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"DeSeve, Alfred",Columbus Ave,Boston,MA,42.34755,-71.07266,"Hotel Glendon, violin"
+1885,1363,Teachers of Music,"Dewey, E.",179 Tremont,Boston,MA,42.35287,-71.064081,Room 48
+1885,1363,Teachers of Music,"Dobson, Geo. C.",290 Shawmut Ave.,Boston,MA,42.3427,-71.06932,Banjo and guitar
+1885,1363,Teachers of Music,"Dorn, C., Mrs.",15 Fayette,Boston,MA,42.349178,-71.067166,
+1885,1363,Teachers of Music,"Dorn, F.",15 Fayette,Boston,MA,42.349178,-71.067166,
+1885,1363,Teachers of Music,"Downes, I. H. K.",60 Sullivan,Boston,MA,42.37907,-71.06524,Charlestown
+1885,1363,Teachers of Music,"Dryden, F. L.",521 East Seventh,Boston,MA,42.33208,-71.03949,
+1885,1363,Teachers of Music,"Dudley, Geo. W.",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Duffy, J. G.",152 Dudley,Boston,MA,42.328883,-71.083214,
+1885,1363,Teachers of Music,"Dunbar, Lillie, Miss",110 Princeton,Boston,MA,42.37783,-71.03566,
+1885,1363,Teachers of Music,"Dunham, H. M.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Dunn, Jennie G.",Taylor St,Boston,MA,42.28651,-71.04029,Neponset
+1885,1363,Teachers of Music,"Egan, P.",312 Tremont,Boston,MA,42.348496,-71.065923,
+1885,1363,Teachers of Music,"Eichberg, Julius",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Eichler, Chas. H.",75 E. Brookline,Boston,MA,42.337719,-71.070474,
+1885,1363,Teachers of Music,"Eichler, J. E.",61 Melrose,Boston,MA,42.348649,-71.068816,
+1885,1363,Teachers of Music,"Elson, Louis C.",83 Fort Ave.,Boston,MA,42.32668,-71.09586,
+1885,1363,Teachers of Music,"Eltz, Paul",14 Milford,Boston,MA,42.34393,-71.06974,
+1885,1363,Teachers of Music,"Emery, S. A.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1363,Teachers of Music,"Endicott, A. C., Mrs.",106 Appleton,Boston,MA,42.34517,-71.07395,
+1885,1363,Teachers of Music,"Fay, H. F.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1363,Teachers of Music,"Fearing, S. Jennie, Miss",569 East Broadway,Boston,MA,42.33536,-71.04144,
+1885,1363,Teachers of Music,"Fenner, Thos. P.",18 Clarement Park,Boston,MA,42.342062,-71.081471,
+1885,1363,Teachers of Music,"Fenollosa, W. S.",14 Winter,Boston,MA,42.355858,-71.061658,Piano
+1885,1363,Teachers of Music,"Fernald, A. H.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1363,Teachers of Music,"Fisher, Sarah C.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory of Music
+1885,1363,Teachers of Music,"Flockton, J. M.",98 West Brookline,Boston,MA,42.34088,-71.07426,
+1885,1363,Teachers of Music,"Foote, Arthur",2 West Cedar,Boston,MA,42.35731,-71.06935,
+1885,1363,Teachers of Music,"Fox, Geo.",10 Common,Boston,MA,42.37387,-71.06045,
+1885,1363,Teachers of Music,"Freeman, James O.",1 Bosworth,Boston,MA,42.35717,-71.060415,
+1885,1363,Teachers of Music,"French, S. E., Miss",East Street,Boston,MA,42.30764,-71.06053,Dorchester
+1885,1363,Teachers of Music,"Fries, Wulf C. J.",369 Dudley,Boston,MA,42.326363,-71.075855,
+1885,1363,Teachers of Music,"Frost, S.",601 Washington,Boston,MA,42.35303,-71.06268,
+1885,1363,Teachers of Music,"Fuller, Eloise L.",4 Kearsarge Ave.,Boston,MA,42.32759,-71.0825,
+1885,1363,Teachers of Music,"Gage, A. Louise",86 Mt. Vernon,Boston,MA,42.321755,-71.054798,
+1885,1363,Teachers of Music,"Gallison, L. J., Mrs.",170 Tremont,Boston,MA,42.35365,-71.06385,
+1885,1363,Teachers of Music,"Garrett, Elizabeth M.",200 Columbus Ave.,Boston,MA,42.348938,-71.070974,
+1885,1363,Teachers of Music,"Gerrish, S. H.",795 Washington,Boston,MA,42.34957,-71.06388,
+1885,1363,Teachers of Music,"Gleason, F. E.",65 Indiana Place,Boston,MA,42.34771,-71.06757,
+1885,1363,Teachers of Music,"Goddard, N. P.",79 E. Brookline,Boston,MA,42.33761,-71.070379,
+1885,1363,Teachers of Music,"Grant, E. C.",12 Davis,Boston,MA,42.375276,-71.036651,
+1885,1363,Teachers of Music,"Grebe, Fannie",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Guardenier, Marietta",12 E Dedham,Boston,MA,42.339371,-71.069535,
+1885,1363,Teachers of Music,"Guilmette, Chas. A., Mrs.",301 Shawmut Ave.,Boston,MA,42.34262,-71.07019,
+1885,1363,Teachers of Music,"Gustine, L., Miss",Boylston St,Boston,MA,42.35227,-71.06440,12 Hotel Boylston
+1885,1363,Teachers of Music,"Guttridge, James B.",Garden St,Boston,MA,42.28503,-71.12135,Mt. Hope
+1885,1363,Teachers of Music,"Hale, F. W.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Hall, Edna A., Mrs.",206 Dartmouth,Boston,MA,42.349269,-71.077097,Vocal
+1885,1363,Teachers of Music,"Hall, J. Dudley",125 Tremont,Boston,MA,42.35648,-71.06176,Room 8
+1885,1363,Teachers of Music,"Hall, Lillian J.",10 Lynde,Boston,MA,42.361319,-71.06458,
+1885,1363,Teachers of Music,"Hallowell, J. E.",701 Shawmut Ave.,Boston,MA,42.333417,-71.083131,
+1885,1363,Teachers of Music,"Hambro, Frances",19 Madison,Boston,MA,42.33353,-71.081208,
+1885,1363,Teachers of Music,"Harding, E. M., Miss",18 Pemberton Sq.,Boston,MA,42.358592,-71.061377,
+1885,1363,Teachers of Music,"Hatch, Isidore, Miss",50 Boylston,Boston,MA,42.352179,-71.063959,
+1885,1363,Teachers of Music,"Hawes, Charlotte W.",Berkeley St,Boston,MA,42.35116,-71.07270,Hotel Berkeley
+1885,1363,Teachers of Music,"Hay, C. E.",149A Tremont,Boston,MA,42.35501,-71.06322,Room 32
+1885,1363,Teachers of Music,"Hayden, W. L.",120 Tremont,Boston,MA,42.356713,-71.061154,
+1885,1363,Teachers of Music,"Heindl, H.",125 Tremont,Boston,MA,42.35648,-71.06176,
+1885,1363,Teachers of Music,"Higgins, Lottie, Miss",84 Warrenton,Boston,MA,42.350255,-71.066317,
+1885,1363,Teachers of Music,"Hill, E. C.",29 Dover,Boston,MA,42.34473,-71.06860,
+1885,1363,Teachers of Music,"Hill, James W.",Music Hall,Boston,MA,42.35623,-71.06083,21 Music Hall bldg.
+1885,1363,Teachers of Music,"Hill, Junius W.",154 Tremont,Boston,MA,42.35464,-71.06336,Room 2
+1885,1363,Teachers of Music,"Hills, Joseph A.",149A Tremont,Boston,MA,42.35501,-71.06322,Room. 57
+1885,1363,Teachers of Music,"Hodsdon, J. L., Jr.",Boylston St,Boston,MA,42.35227,-71.06440,14 Hotel Boylston
+1885,1363,Teachers of Music,"Hoey, F. M., Mrs.",24 Poplar,Boston,MA,42.286353,-71.128663,
+1885,1363,Teachers of Music,"Holmes, Theresa C., Miss",218 Columbus Ave.,Boston,MA,42.347472,-71.073476,
+1885,1363,Teachers of Music,"Howard, George H.",Franklin Sq,Boston,MA,42.33826,-71.07310,"New England Conservatory, piano"
+1885,1363,Teachers of Music,"Howard, Nellie W.",91 Weld Ave.,Boston,MA,42.314413,-71.098935,Roxbury
+1885,1363,Teachers of Music,"Howell, W. I.",Berkeley St,Boston,MA,42.35116,-71.07270,Hotel Berkeley
+1885,1363,Teachers of Music,"Howes, C. M., Miss",317 Marlborough,Boston,MA,42.35149,-71.08461,Vocal
+1885,1363,Teachers of Music,"Hoyt, John",157 Tremont,Boston,MA,42.35446,-71.06347,
+1885,1363,Teachers of Music,"Hudson, Joseph C.",616 Washington,Boston,MA,42.35258,-71.06237,Vocal and instrumental
+1885,1363,Teachers of Music,"Human, Theodore",147 Tremont,Boston,MA,42.355111,-71.063003,
+1885,1363,Teachers of Music,"Hunt, Charles G.",Cherry St,Boston,MA,42.34549,-71.06603,4 Hotel Cherry (flute and clarionet)
+1885,1363,Teachers of Music,"Ide, M. W.",Downer Ct.,Boston,MA,42.31001,-71.06437,Dorchester
+1885,1363,Teachers of Music,"Ingles, James M., Mrs.",218 Columbus Ave.,Boston,MA,42.347472,-71.073476,"Hotel Howland, vocal"
+1885,1363,Teachers of Music,"Jamieson, S. W.",14 Grenville Pl.,Boston,MA,42.327644,-71.080429,
+1885,1363,Teachers of Music,"Johnson, Herbert O.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1363,Teachers of Music,"Kammerlung, H. A.",3 Creighton,Boston,MA,42.322412,-71.108297,
+1885,1363,Teachers of Music,"Keach, L.",Music Hall,Boston,MA,42.35623,-71.06083,28 Music Hall bldg.
+1885,1363,Teachers of Music,"Keene, A. W.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Kelly, E. A.",17 Beacon,Boston,MA,42.358253,-71.062094,
+1885,1363,Teachers of Music,"King, H. Adelaide, Mrs.",52 Eutaw,Boston,MA,42.37937,-71.03765,
+1885,1363,Teachers of Music,"Kraus, Jennie, Mrs.",12 Bond,Boston,MA,42.34351,-71.0695,
+1885,1363,Teachers of Music,"Lanegan, Jane R. W.",Grant Place,Boston,MA,42.274782,-71.070218,Lower Mills
+1885,1363,Teachers of Music,"Lang, B. J.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1363,Teachers of Music,"Lansing, George L.",1 Bosworth,Boston,MA,42.35717,-71.060415,Banjo
+1885,1363,Teachers of Music,"Lavallee, Calixa",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Leavitt, W. J. D.",433 Washington,Boston,MA,42.35561,-71.06053,
+1885,1363,Teachers of Music,"Leitch, John",2930 Washington,Boston,MA,42.31887,-71.09501,
+1885,1363,Teachers of Music,"Lennon, J. G.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1363,Teachers of Music,"Lewis, Fred. H.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Lincoln, A. L., Miss",12 Pinckney,Boston,MA,42.358754,-71.065669,
+1885,1363,Teachers of Music,"Lincoln, F. F.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Linscott, Nellie F.",2 East Canton,Boston,MA,42.338932,-71.070364,L. M. H.
+1885,1363,Teachers of Music,"Listemann, Bernard",132 Tremont,Boston,MA,42.35560,-71.06225,
+1885,1363,Teachers of Music,"Long, J. H., Mrs.",21 Holyoke,Boston,MA,42.34495,-71.07787,
+1885,1363,Teachers of Music,"Lott, W. H., Mrs.",415 Columbus Ave,Boston,MA,42.34450,-71.07721,Hotel Columbus
+1885,1363,Teachers of Music,"Maas, Louis",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1363,Teachers of Music,"Macdonald, Ida J.",37 Concord Sq.,Boston,MA,42.34178,-71.07903,
+1885,1363,Teachers of Music,"Madden, Mary",102 Mt. Vernon,Boston,MA,42.3578,-71.06923,
+1885,1363,Teachers of Music,"Mann, S. H.",28 Winter,Boston,MA,42.309283,-71.062351,
+1885,1363,Teachers of Music,"Manning, C. H.",13 Pemberton Sq.,Boston,MA,42.358894,-71.061388,
+1885,1363,Teachers of Music,"Marble, Edw. B.",39 Hancock,Boston,MA,42.36007,-71.06465,Violin
+1885,1363,Teachers of Music,"Marsh, C. A., Mrs.",Music Hall,Boston,MA,42.35623,-71.06083,22 Music Hall bldg.
+1885,1363,Teachers of Music,"Marshall, L.",169 West Newton,Boston,MA,42.34293,-71.07788,
+1885,1363,Teachers of Music,"Martin, S. C., Jr.",252 Webster,Boston,MA,42.36488,-71.0316,East Boston
+1885,1363,Teachers of Music,"Mason, L.",516 Washington,Boston,MA,42.35407,-71.06183,
+1885,1363,Teachers of Music,"McGowan, M. E.",790 Parker,Boston,MA,42.329282,-71.098908,
+1885,1363,Teachers of Music,"McLaughlin, Ellen A.",29 E. Canton,Boston,MA,42.338333,-71.07003,
+1885,1363,Teachers of Music,"McLaughlin, Kate C.",61 Appleton,Boston,MA,42.34588,-71.07251,
+1885,1363,Teachers of Music,"McLeod, N.",Music Hall,Boston,MA,42.35623,-71.06083,"26 Music Hall bldg, Piano"
+1885,1363,Teachers of Music,"Menzel, William A.",Chestnut Ave,Boston,MA,42.31740,-71.10657,"Near Boylston St, Jamaica Plain"
+1885,1363,Teachers of Music,"Merck, George G.",1 Oak Place,Boston,MA,42.347847,-71.063734,
+1885,1363,Teachers of Music,"Merrill, R.",157 Tremont,Boston,MA,42.35446,-71.06347,
+1885,1363,Teachers of Music,"Mitchell, Nellie Brown",16 Mills St,Boston,MA,42.32103,-71.08341,
+1885,1363,Teachers of Music,"Moore, C., Mrs.",21 East Canton,Boston,MA,42.33843,-71.070223,
+1885,1363,Teachers of Music,"Morrill, L. P., Mrs.",51 Clarendon,Boston,MA,42.34655,-71.07295,
+1885,1363,Teachers of Music,"Moulton, Hattie A.",Richmond,Boston,MA,42.27431,-71.06596,Lower Mills
+1885,1363,Teachers of Music,"Munger, Clara",179 Tremont,Boston,MA,42.35287,-71.064081,Room 48
+1885,1363,Teachers of Music,"Munroe, S. A. D.",Highland St,Boston,MA,42.308521,-71.06019,Dorchester
+1885,1363,Teachers of Music,"Munson, Julius S.",32 Winter,Boston,MA,42.355918,-71.061763,Room D
+1885,1363,Teachers of Music,New England Conservatory of Music,Franklin Sq,Boston,MA,42.33826,-71.07310,
+1885,1363,Teachers of Music,"Noeroth, J.",76 Temple,Boston,MA,42.359671,-71.063413,
+1885,1363,Teachers of Music,"Norman, T.",78 Chapman,Boston,MA,42.357133,-71.059876,
+1885,1363,Teachers of Music,"Norton, James H.",103 Court St,Boston,MA,42.36040,-71.06005,
+1885,1363,Teachers of Music,"O’Brion, Mary E., Miss",Columbus Ave,Boston,MA,42.34755,-71.07266,"Hotel Glendon, suite 5"
+1885,1363,Teachers of Music,"O’Shea, John A., Jr.",49 Chelsea,Boston,MA,42.371049,-71.037195,East Boston
+1885,1363,Teachers of Music,"Oliver, Edward B.",5 Columbus Sq.,Boston,MA,42.34322,-71.07769,
+1885,1363,Teachers of Music,"Orth, John",179 Tremont,Boston,MA,42.35287,-71.064081,
+1885,1363,Teachers of Music,"Orth, Louise E.",36 Holyoke,Boston,MA,42.34495,-71.07849,
+1885,1363,Teachers of Music,"Osgood, Geo. L.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1363,Teachers of Music,"Park, Carrie M, Miss",Linden,Boston,MA,42.30571,-71.06015,Near Dorchester Ave.
+1885,1363,Teachers of Music,"Parke, Fred W.",39 Concord Sq.,Boston,MA,42.34182,-71.07907,
+1885,1363,Teachers of Music,"Parker, J. C. D.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Parks, Gideon N.",Cortes St,Boston,MA,42.34819,-71.07004,18 Huntington House
+1885,1363,Teachers of Music,"Parmenter, L. H.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1363,Teachers of Music,"Pennell, Albert E.",157 Tremont,Boston,MA,42.35446,-71.06347,Vocal
+1885,1363,Teachers of Music,"Perabo, Ernst",Park St,Boston,MA,42.28221,-71.15093,Near Anawan Ave.
+1885,1363,Teachers of Music,"Petersilea Carlyle, Academy of Music",279 Columbus Ave,Boston,MA,42.347013,-71.074038,and 281 Columbus Ave
+1885,1363,Teachers of Music,"Petersilea Carlyle, Academy of Music",281 Columbus Ave,Boston,MA,42.346975,-71.074073,and 279 Columbus Ave
+1885,1363,Teachers of Music,"Pflueger, Carl",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Plumer, Annie E.",Boylston St,Boston,MA,42.35227,-71.06440,9 Hotel Boylston
+1885,1363,Teachers of Music,"Preisch, J. Allen",175 Tremont,Boston,MA,42.35315,-71.06403,Room 65
+1885,1363,Teachers of Music,"Preston, J. A.",149A Tremont,Boston,MA,42.35501,-71.06322,Room 65
+1885,1363,Teachers of Music,"Proeschold, Carl H. F.",79 Dudley,Boston,MA,42.328952,-71.086649,
+1885,1363,Teachers of Music,"Purdy, Geo.",11 Pemberton Sq.,Boston,MA,42.358896,-71.061406,
+1885,1363,Teachers of Music,"Rametti, Joseph",40 Dartmouth,Boston,MA,42.344,-71.07457,
+1885,1363,Teachers of Music,"Rametti, Joseph, Mrs.",40 Dartmouth,Boston,MA,42.344,-71.07457,
+1885,1363,Teachers of Music,"Ramsdell, Eugene C.",3 Creighton,Boston,MA,42.322412,-71.108297,
+1885,1363,Teachers of Music,"Ray, Jennie T., Mrs.",29 No. Russell,Boston,MA,42.36168,-71.06591,
+1885,1363,Teachers of Music,"Reed, Albin R.",3 W. Cedar,Boston,MA,42.35736,-71.06937,Vocal
+1885,1363,Teachers of Music,"Reilly, May C.",28 Milford,Boston,MA,42.34416,-71.07019,
+1885,1363,Teachers of Music,"Richardson, J. H.",1 Bosworth,Boston,MA,42.35717,-71.060415,
+1885,1363,Teachers of Music,"Ripley, W. S.",8 Court St,Boston,MA,42.35881,-71.05810,Room 9
+1885,1363,Teachers of Music,"Robinson, G.",171 Tremont,Boston,MA,42.353456,-71.063951,Banjo
+1885,1363,Teachers of Music,"Robinson, W. B.",149A Tremont,Boston,MA,42.35501,-71.06322,Room 66
+1885,1363,Teachers of Music,"Roby, Charles C.",149 Trenton,Boston,MA,42.37977,-71.03357,East Boston
+1885,1363,Teachers of Music,"Rosenberger, Jane",175 Tremont,Boston,MA,42.35315,-71.06403,
+1885,1363,Teachers of Music,"Ryan, Alice",Mill St,Boston,MA,42.30158,-71.05122,"Corner of Commercial St, Dorchester"
+1885,1363,Teachers of Music,"Ryder, Thomas P.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1363,Teachers of Music,"Sargent, Sullivan A.",175 Tremont,Boston,MA,42.35315,-71.06403,
+1885,1363,Teachers of Music,"Sawyer, H. E., Mrs.",17 St. James Ave.,Boston,MA,42.351045,-71.070756,
+1885,1363,Teachers of Music,"Schubert, Adolph L.",128 Castle,Boston,MA,42.339074,-71.052429,
+1885,1363,Teachers of Music,"Scott, S. B., Mrs.",131 Tremont,Boston,MA,42.356011,-71.062281,
+1885,1363,Teachers of Music,"Sharland, J. B.",Centre St,Boston,MA,42.31298,-71.11411,Jamaica Plain
+1885,1363,Teachers of Music,"Shaw, Franklin A.",175 Tremont,Boston,MA,42.35315,-71.06403,
+1885,1363,Teachers of Music,"Shepard, Martha D., Mrs.",Ashland,Boston,MA,42.30014,-71.05308,Dorchester
+1885,1363,Teachers of Music,"Sherman, Etta R.",Franklin Sq,Boston,MA,42.33826,-71.07310,"New England Conservatory, violin"
+1885,1363,Teachers of Music,"Sherwood, F. C., Mrs.",281 Columbus Ave,Boston,MA,42.346975,-71.074073,Harp
+1885,1363,Teachers of Music,"Sherwood, Wm. H.",156 Tremont,Boston,MA,42.35455,-71.06341,
+1885,1363,Teachers of Music,"Simonds, M. Anna",281 Columbus Ave.,Boston,MA,42.346975,-71.074073,
+1885,1363,Teachers of Music,"Siple, M. DeForrest",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1363,Teachers of Music,"Smart, Clara E.",179 Tremont,Boston,MA,42.35287,-71.064081,Room 50
+1885,1363,Teachers of Music,"Smith, Elmira",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1363,Teachers of Music,"SMith, Frank J.",39 Hancock,Boston,MA,42.36007,-71.06465,
+1885,1363,Teachers of Music,"Smith, Frank T.",154 W. Brookline,Boston,MA,42.34224,-71.07581,
+1885,1363,Teachers of Music,"Smith, H. H.",1030 Washington,Boston,MA,42.34557,-71.06485,Banjo
+1885,1363,Teachers of Music,"Smith, H. M., Mrs.",Music Hall,Boston,MA,42.35623,-71.06083,25 Music Hall bldg.
+1885,1363,Teachers of Music,"Smith, Henry J.",31 Worcester Sq.,Boston,MA,42.33615,-71.07447,
+1885,1363,Teachers of Music,"Smith, T. J., Mrs.",Boylston St,Boston,MA,42.35234,-71.06485,"Hotel Pelham, room 13, vocal"
+1885,1363,Teachers of Music,"Spring, N. J.",179 Washington,Boston,MA,42.35918,-71.05793,
+1885,1363,Teachers of Music,"St. Clair, K. T.",344 Shawmut Ave.,Boston,MA,42.3415,-71.07134,
+1885,1363,Teachers of Music,"Staats, C. L.",3 Tremont Row,Boston,MA,42.36037,-71.06052,Clarionet etc.
+1885,1363,Teachers of Music,"Starkey, Fannie, Miss",58 Auburn,Boston,MA,42.381049,-71.069212,
+1885,1363,Teachers of Music,"Stater, Pauline P.",18 Boylston,Boston,MA,42.352107,-71.063131,
+1885,1363,Teachers of Music,"Stetson, J. B.",506 Washington,Boston,MA,42.35422,-71.06162,
+1885,1363,Teachers of Music,"Stewart & Marcellas,",43 Appleton,Boston,MA,42.34602,-71.07202,
+1885,1363,Teachers of Music,"Stoddard, H. H., Miss",83 Shawmut Ave.,Boston,MA,42.347615,-71.065888,
+1885,1363,Teachers of Music,"Stone, Minnie C.",293 Tremont,Boston,MA,42.34972,-71.06540,
+1885,1363,Teachers of Music,"Stratton, Henry W.",14 Truro,Boston,MA,42.34639,-71.07620,
+1885,1363,Teachers of Music,"Strong, Sarah, Miss",433 Columbus Ave.,Boston,MA,42.344027,-71.077869,
+1885,1363,Teachers of Music,"Suck, August P. F.",6 Catawba,Boston,MA,42.319685,-71.083277,
+1885,1363,Teachers of Music,"Suck, Carl J.",10 Ferdinand,Boston,MA,42.348442,-71.06951,
+1885,1363,Teachers of Music,"Sullivan, Daniel",815 Albany,Boston,MA,42.332367,-71.07547,"Rear, violin"
+1885,1363,Teachers of Music,"Sumner, G. W.",96 Charles,Boston,MA,42.358587,-71.070891,
+1885,1363,Teachers of Music,"Swan, A. W.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1363,Teachers of Music,"Thayer, Arthur W.",179 Tremont,Boston,MA,42.35287,-71.064081,"Room 55, vocal"
+1885,1363,Teachers of Music,"Titus, George R.",149A Tremont,Boston,MA,42.35501,-71.06322,Vocal
+1885,1363,Teachers of Music,"Tompson, C. H.",179 Washington,Boston,MA,42.35918,-71.05793,
+1885,1364,Teachers of Music,"Trask, C. R. B.",360½ Tremont,Boston,MA,42.348367,-71.066981,
+1885,1364,Teachers of Music,"Trask, Julia, Miss",47 Humphreys,Boston,MA,42.319249,-71.067601,
+1885,1364,Teachers of Music,"Trautmann, Carl",125 Tremont,Boston,MA,42.35648,-71.06176,
+1885,1364,Teachers of Music,Tremont School of Music,550 Tremont,Boston,MA,42.343895,-71.071263,"Fanny E. Bruce, principal"
+1885,1364,Teachers of Music,"Tucker, H. G.",152 Tremont,Boston,MA,42.35473,-71.06333,
+1885,1364,Teachers of Music,"Tufts, John W.",19 Holyoke,Boston,MA,42.34491,-71.07781,
+1885,1364,Teachers of Music,"Turner, A. D.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1364,Teachers of Music,"Turner, J. W.",3 Chelsea,Boston,MA,42.369959,-71.038504,East Boston
+1885,1364,Teachers of Music,"Underwood, Mary L.",604 Tremont,Boston,MA,42.34268,-71.0734,
+1885,1364,Teachers of Music,"Van Buren, J., Miss",Columbus Ave,Boston,MA,42.34755,-71.07266,Hotel Glendon
+1885,1364,Teachers of Music,"Van Raalte, Albert",154 Tremont,Boston,MA,42.35464,-71.06336,
+1885,1364,Teachers of Music,"Van Valknenburg, W. B.",70 Chapman,Boston,MA,42.357202,-71.059835,
+1885,1364,Teachers of Music,"Von Ette, Edward",20 Delle Ave.,Boston,MA,42.33084,-71.09849,
+1885,1364,Teachers of Music,"Von Radecki, Olga",Columbus Ave,Boston,MA,42.34755,-71.07266,5 Hotel Glendon
+1885,1364,Teachers of Music,"Waddington, James",7 Copeland,Boston,MA,42.3218,-71.08141,Roxbury
+1885,1364,Teachers of Music,"Ward, Julius E.",707 Shawmut Ave.,Boston,MA,42.333357,-71.083231,
+1885,1364,Teachers of Music,"Washburn, A. M., Miss",433 Washington,Boston,MA,42.35561,-71.06053,
+1885,1364,Teachers of Music,"Webber, Charles F.",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1364,Teachers of Music,"Webster, Mary P.",Dix,Boston,MA,42.29568,-71.05909,Dorchester
+1885,1364,Teachers of Music,"Wenzel, Iwan P.",445 W. Broadway,Boston,MA,42.336049,-71.046876,
+1885,1364,Teachers of Music,"Weston, J. P.",451 Washington,Boston,MA,42.35534,-71.06077,
+1885,1364,Teachers of Music,"Weston, Louis F.",125 Tremont,Boston,MA,42.35648,-71.06176,
+1885,1364,Teachers of Music,"Wheeler, J. Harry",149A Tremont,Boston,MA,42.35501,-71.06322,
+1885,1364,Teachers of Music,"Wheeler, Lyman W.",161 Tremont,Boston,MA,42.35421,-71.06363,
+1885,1364,Teachers of Music,"Whiddon, W. H.",179 Washington,Boston,MA,42.35918,-71.05793,
+1885,1364,Teachers of Music,"Whitcomb, Walter C.",155 Franklin,Boston,MA,42.35551,-71.05588,
+1885,1364,Teachers of Music,"White, Frank L.",943 Washington,Boston,MA,42.34715,-71.06462,
+1885,1364,Teachers of Music,"White, Henry K., Jr.",175 Tremont,Boston,MA,42.35315,-71.06403,Room 63
+1885,1364,Teachers of Music,"Whitney, F. P., Mrs.",5 St. Charles,Boston,MA,42.34716,-71.07185,
+1885,1364,Teachers of Music,"Whitney, H. L.",125 Tremont,Boston,MA,42.35648,-71.06176,
+1885,1364,Teachers of Music,"Whitney, S. B.",125 Tremont,Boston,MA,42.35648,-71.06176,
+1885,1364,Teachers of Music,"Whittier, Charles H.",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
+1885,1364,Teachers of Music,"Wild, J. C.",20½ Bedford,Boston,MA,42.354392,-71.061312,Banjo
+1885,1364,Teachers of Music,"Wilde, Hiram",616 Washington,Boston,MA,42.35258,-71.06237,
+1885,1364,Teachers of Music,"Wilder, L. L.",422 Tremont,Boston,MA,42.346941,-71.068744,Vocal
+1885,1364,Teachers of Music,"Wilson, G. E., Mrs.",314 Shawmut Ave.,Boston,MA,42.34209,-71.07029,
+1885,1364,Teachers of Music,"Winch, W. J.",149A Tremont,Boston,MA,42.35501,-71.06322,Vocal
+1885,1364,Teachers of Music,"Woodman, Edwin C.",1125 Washington,Boston,MA,42.34410,-71.06590,
+1885,1364,Teachers of Music,"Woodward, L. F., Miss",112 Berkeley,Boston,MA,42.347506,-71.072234,Vocal
+1885,1364,Teachers of Music,"Zerrahn, Carl",Franklin Sq,Boston,MA,42.33826,-71.07310,New England Conservatory
 1895,1683,Music Box Repairers,"Tilton, John G.",33 Lawrence,Boston,MA,42.37535,-71.06551,Charlestown
-1895,1683,Music Dealers and Publishers,"Barker, George",180 Tremont,Boston,MA,42.352719,-71.064141,Room 39
+1895,1683,Music Dealers and Publishers,"Barker, George",180 Tremont,Boston,MA,42.35273,-71.06418,Room 39
 1895,1683,Music Dealers and Publishers,Bates & Bendix,98 Berkeley,Boston,MA,42.347573,-71.071348,
 1895,1683,Music Dealers and Publishers,"Blake, Charles D. & Co.",26 West St,Boston,MA,42.354644,-71.062645,
 1895,1683,Music Dealers and Publishers,Cary Bros.,32 West St,Boston,MA,42.354744,-71.062629,
@@ -697,7 +1251,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1895,1683,Music Dealers and Publishers,"Ramsdell, E. C.",Music Hall,Boston,MA,42.35623,-71.06083,36 Music Hall
 1895,1683,Music Dealers and Publishers,"Ripley, W. S.",88 Court St,Boston,MA,42.36043,-71.06023,
 1895,1683,Music Dealers and Publishers,"Ross, Louis H. & Co.",32 West St,Boston,MA,42.354744,-71.062629,
-1895,1683,Music Dealers and Publishers,"Samuels, E. A.",179 Tremont,Boston,MA,42.352907,-71.064081,Room 54
+1895,1683,Music Dealers and Publishers,"Samuels, E. A.",179 Tremont,Boston,MA,42.35287,-71.064081,Room 54
 1895,1683,Music Dealers and Publishers,"Schmidt, Arthur P.",146 Boylston,Boston,MA,42.352264,-71.066409,
 1895,1683,Music Dealers and Publishers,"Stratton, G. W. & Co.",98 Hanover,Boston,MA,42.362049,-71.057041,
 1895,1683,Music Dealers and Publishers,"Trifet, F.",36 Bromfield,Boston,MA,42.35667,-71.06038,
@@ -721,7 +1275,7 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1905,2065,Music Dealers and Publishers,Coupon Music Publishing Co.,128A Tremont,Boston,MA,42.356314,-71.061921,
 1905,2065,Music Dealers and Publishers,Cundy Music Co.,93 Court St,Boston,MA,42.36004,-71.05983,
 1905,2065,Music Dealers and Publishers,"Ditson, Oliver Company",150 Tremont,Boston,MA,42.354798,-71.063101,
-1905,2065,Music Dealers and Publishers,Evans Music Co.,211 Tremont,Boston,MA,42.351528,-71.064919,
+1905,2065,Music Dealers and Publishers,Evans Music Co.,211 Tremont,Boston,MA,42.35180,-71.06487,
 1905,2065,Music Dealers and Publishers,Faelten Pianoforte School,30 Huntington Ave,Boston,MA,42.348383,-71.077759,
 1905,2065,Music Dealers and Publishers,"Gerrish, William H.",43 West St,Boston,MA,42.355077,-71.062721,
 1905,2065,Music Dealers and Publishers,"Harriott, Bertram",3 Winter,Boston,MA,42.355423,-71.061469,Composer
@@ -737,12 +1291,12 @@ Year,Page,Category,Name,Street,City,State,Latitude,Longitude,Notes
 1905,2065,Music Dealers and Publishers,"Ramsdell, E. C.",Music Hall,Boston,MA,42.35623,-71.06083,33 Music Hall
 1905,2065,Music Dealers and Publishers,"Ripley, W. S.",88 Court St,Boston,MA,42.36043,-71.06023,
 1905,2065,Music Dealers and Publishers,"Schmidt, Arthur P.",120 Boylston,Boston,MA,42.35224,-71.06572,
-1905,2065,Music Dealers and Publishers,"Setchell, Geo. W.",633 Washington,Boston,MA,42.352015,-71.062803,
+1905,2065,Music Dealers and Publishers,"Setchell, Geo. W.",633 Washington,Boston,MA,42.35251,-71.06271,
 1905,2065,Music Dealers and Publishers,"Thompson, C. W. & Co.",13 West St,Boston,MA,42.354747,-71.062111,
 1905,2065,Music Dealers and Publishers,"Trifet, F.",36 Bromfield,Boston,MA,42.35667,-71.06038,Estate
 1905,2065,Music Dealers and Publishers,Waldo Music Co.,235 W. Newton,Boston,MA,42.34449,-71.08011,
 1905,2065,Music Dealers and Publishers,White-Smith Music Publishing Co.,62 Stanhope,Boston,MA,42.348163,-71.073291,
-1905,2065,Music Dealers and Publishers,"White, Jean",521 Washington,Boston,MA,42.354295,-71.062147,
+1905,2065,Music Dealers and Publishers,"White, Jean",521 Washington,Boston,MA,42.35422,-71.06202,
 1905,2065,Music Dealers and Publishers,"Wood, B. F. Music Co.",246 Summer,Boston,MA,42.35174,-71.05305,
 1905,2065,Music Printers,Advent Christian Publication Society,160 Warren,Boston,MA,42.325354,-71.082977,Roxbury
 1905,2098,Printers of Music,Advent Christian Publication Society,160 Warren,Boston,MA,42.325354,-71.082977,Roxbury
