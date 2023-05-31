@@ -6,7 +6,7 @@ output:
 title: "Musical Geographies of Boston"
 ---
 
-Derek R. Strykowski, *University at Buffalo*
+**1865–1915** &nbsp;      &nbsp; *Prototype Version*
 
 ![](Bromley1888Banner.jpg)
 
@@ -20,7 +20,11 @@ The project thus offers a bird’s-eye view of the city’s music making that is
 
 The annual *Boston Directory* identifies the addresses of businesses that provided everything the nineteenth-century musician could desire: from music stands to music publishers. (These particular listings are found, in the directory of 1885, between those for the manufacturers of mucilage and mustard.) The directory’s publisher in 1865 was Adams, Sampson, & Co. of Boston, although the name of the firm was changed to Sampson, Davenport, & Co. in 1866, then to Sampson, Murdock, & Co. in 1885, and finally to Sampson & Murdock in 1904.
 
-The abbreviated names of musicians remain as printed, so as to preserve the names by which they may have been known professionally. However, street abbreviations (such as “Wash.” for “Washington”) have been silently expanded within the data. The initial bulk geocoding was performed using a free service called [Geocodio](https://www.geocod.io/upload/) and was then checked for historical accuracy against period atlases on [Mapjunction](https://www.mapjunction.com). Street addresses from 1865, for example, were checked against the *Atlas of the County of Suffolk, Massachusetts* (Philadelphia, G. M. Hopkins, 1874). Those from 1875 were checked against the *Atlas of the City of Boston* (Philadelphia: Bromley, 1883). Special care was taken to account for the phased renumbering of Washington Street, one of the city’s main commercial thoroughfares, when dealing with atlases and directory information from the 1870s. The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project.
+The abbreviated names of musicians remain as printed, so as to preserve the names by which they may have been known professionally. However, street abbreviations (such as “Wash.” for “Washington”) have been silently expanded within the data. The initial bulk geocoding was performed using a free service called [Geocodio](https://www.geocod.io/upload/) and was then checked for historical accuracy against period atlases on [Mapjunction](https://www.mapjunction.com). Street addresses from 1865, for example, were checked against the *Atlas of the County of Suffolk, Massachusetts* (Philadelphia, G. M. Hopkins, 1874). Those from 1875 were checked against the *Atlas of the City of Boston* (Philadelphia: Bromley, 1883). Special care was taken to account for the phased renumbering of Washington Street, one of the city’s main commercial thoroughfares, when dealing with atlases and directory information from the 1870s. 
+
+For cases in which a given address corresponds to two or more streets sharing the same name, the printed directory listing typically specifies the neighborhood.  When no neighborhood is specified, however, the location closest to the center of the city was selected for geocoding. The "Notes" field includes not only these neighborhood identifiers (bracketed if not original to the directory listing) but also any other details that the listing may have provided, such as additional places of business or the nature of the available product or service.
+
+The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project.
 
 Select a year and a category of musical activity (e.g. music teachers) from the menu below to see it on the map. **Note: Data from 1895–1915 remains incomplete as of the present release.**
 
@@ -145,6 +149,21 @@ output$YearName3 <- renderText(input$chosen_year)
 output$CategoryName4 <- renderText(input$chosen_category)
 output$YearName4 <- renderText(input$chosen_year)
 ```
+
+&nbsp;
+
+#### The Research Team
+![](Strykowski.jpg)
+&nbsp;**Derek R. Strykowski,** principal investigator
+
+Derek Strykowski is associate teaching professor in the Department of Music at the University at Buffalo (SUNY). He holds a PhD in historical musicology from Brandeis University. Learn more about his research at https://www.dstrykowski.com
+
+&nbsp;
+
+![](Titar.jpg)
+&nbsp;**Raginee Rajesh Titar,** research assistant
+
+Raginee Titar is pursuing an MPS in data sciences and applications at the University at Buffalo’s School of Engineering and Applied Sciences. Her work on the project has been funded by an enabling grant from the UB Digital Scholarship Studio & Network.
 
 &nbsp;
 
