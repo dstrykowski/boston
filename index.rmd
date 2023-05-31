@@ -24,9 +24,7 @@ The abbreviated names of musicians remain as printed, so as to preserve the name
 
 For cases in which a given address corresponds to two or more streets sharing the same name, the printed directory listing typically specifies the neighborhood.  When no neighborhood is specified, however, the location closest to the center of the city was selected for geocoding. The "Notes" field includes not only these neighborhood identifiers (bracketed if not original to the directory listing) but also any other details that the listing may have provided, such as additional places of business or the nature of the available product or service.
 
-The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project.
-
-Select a year and a category of musical activity (e.g. music teachers) from the menu below to see it on the map. **Note: Data from 1895–1915 remains incomplete as of the present release.**
+The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project. Select a year and a category of musical activity (e.g. music teachers) from the menu below to explore it on the map:
 
 
 ```{r, echo = FALSE, message = FALSE}
