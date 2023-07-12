@@ -12,19 +12,13 @@ title: "Musical Geographies of Boston"
 
 THE CITY OF BOSTON, MASSACHUSETTS, has played an essential role in the development of North American musical life since at least 1698, when a new edition of the Bay Psalm Book included the first music to be printed and published anywhere on the continent. By the late nineteenth century, Boston was home to such internationally renowned composers as George Whitefield Chadwick, Amy Beach, and Edward MacDowell. The period 1865–1915, from roughly the end of the Civil War through the onset of World War I, witnessed the city’s musical support industries flourishing in equal measure.
 
-This ongoing digital mapping project, a byproduct of my research into the life and work of music publisher Arthur P. Schmidt and the composers of the so-called Second New England School, visualizes the manifold musical products and services on offer in the *Boston Directory* between 1865 and 1915. The maps can help us to answer a historical question so basic that it is easily overlooked: “Who was there?” 
+This ongoing digital mapping project, a byproduct of my research into the life and work of music publisher Arthur P. Schmidt and the composers of the so-called Second New England School, visualizes the manifold musical products and services on offer in the *Boston Directory* between 1865 and 1915. The maps can help us to answer a historical question so basic that it is easily overlooked: “Who was there?”
+
+Like any urban site of musical production (say, seventeenth-century [Venice](http://musiciansinvenice.com/) or twentieth-century [New Orleans](https://acloserwalknola.com/)) Boston was home to more than just performers and composers. Piano tuners, music dealers, instrument makers, teachers, and publishers all had important parts to play as well. Sharing the same streets, and often the same buildings, in the bustling commercial district south of the Boston Common and eventually throughout the growing metropolis, these diverse musical specialists together formed the business networks that allowed Boston’s musical culture to thrive.
 
 The project thus offers a bird’s-eye view of the city’s music making that is nevertheless finely detailed in the information that it presents to scholars. It joins those of digital historians like [Louis K. Epstein](https://musicalgeography.org/) and [Lincoln Mullen](https://lincolnmullen.com) in offering new, flexible means of visualizing the spaces of our musical past.
 
-#### Making the Maps
-
-The annual *Boston Directory* identifies the addresses of businesses that provided everything the nineteenth-century musician could desire: from music stands to music publishers. (These particular listings are found, in the directory of 1885, between those for the manufacturers of mucilage and mustard.) The directory’s publisher in 1865 was Adams, Sampson, & Co. of Boston, although the name of the firm was changed to Sampson, Davenport, & Co. in 1866, then to Sampson, Murdock, & Co. in 1885, and finally to Sampson & Murdock in 1904.
-
-The abbreviated names of musicians remain as printed, so as to preserve the names by which they may have been known professionally. However, street abbreviations (such as “Wash.” for “Washington”) have been silently expanded within the data. The initial bulk geocoding was performed using a free service called [Geocodio](https://www.geocod.io/upload/) and was then checked for historical accuracy against period atlases on [Mapjunction](https://www.mapjunction.com). Street addresses from 1865, for example, were checked against the *Atlas of the County of Suffolk, Massachusetts* (Philadelphia, G. M. Hopkins, 1874). Those from 1875 were checked against the *Atlas of the City of Boston* (Philadelphia: Bromley, 1883). Special care was taken to account for the phased renumbering of Washington Street, one of the city’s main commercial thoroughfares, when dealing with atlases and directory information from the 1870s. 
-
-For cases in which a given address corresponds to two or more streets sharing the same name, the printed directory listing typically specifies the neighborhood.  When no neighborhood is specified, however, the location closest to the center of the city was selected for geocoding. The "Notes" field includes not only these neighborhood identifiers (bracketed if not original to the directory listing) but also any other details that the listing may have provided, such as additional places of business or the nature of the available product or service.
-
-The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project. Select a year and a category of musical activity (e.g. music teachers) from the menu below to explore it on the map:
+Select a year and a directory category (e.g. music teachers) from the menu below to explore it on the map:
 
 
 ```{r, echo = FALSE, message = FALSE}
@@ -150,6 +144,23 @@ output$YearName4 <- renderText(input$chosen_year)
 
 &nbsp;
 
+
+#### Making the Maps
+
+The annual *Boston Directory* identifies by category the addresses of businesses that provided everything the nineteenth-century musician could desire: from music stands to music publishers. (These particular listings are found, in the directory of 1885, between those for the manufacturers of mucilage and mustard.) The directory’s publisher in 1865 was Adams, Sampson, & Co. of Boston, although the name of the firm was changed to Sampson, Davenport, & Co. in 1866, then to Sampson, Murdock, & Co. in 1885, and finally to Sampson & Murdock in 1904. The directory employs an asterisk to indicate contrived categories of paid advertisements: “Headings marked thus * indicate names inserted by special contract.” These entries generally duplicate those found in the regular, non-sponsored categories.
+
+The abbreviated names of musicians remain as printed, so as to preserve the names by which they may have been known professionally. However, street abbreviations (such as “Wash.” for “Washington Street”) have been silently expanded within the data. The initial bulk geocoding was performed using a free service called [Geocodio](https://www.geocod.io/upload/) and was then checked for historical accuracy against period atlases on [Mapjunction](https://www.mapjunction.com). Street addresses from 1865, for example, were checked against the *Atlas of the County of Suffolk, Massachusetts* (Philadelphia, G. M. Hopkins, 1874). Those from 1875 were checked against the *Atlas of the City of Boston* (Philadelphia: Bromley, 1883). Special care was taken to account for the phased renumbering of Washington Street, one of the city’s main commercial thoroughfares, when dealing with atlases and directory information from the 1870s.
+
+<center>![](PianoMovers1895.jpg)</center>
+
+###### Compare this 1895 listing for piano movers (p. 1704) with the same information as presented in the digitized directory table above.
+
+For cases in which a given address corresponds to two or more streets sharing the same name, the printed directory listing typically specifies the neighborhood.  When no neighborhood is specified, however, the location closest to the center of the city was selected for geocoding. The "Notes" field includes not only these neighborhood identifiers (bracketed if not original to the directory listing) but also any other details that the listing may have provided, such as additional places of business or the nature of the available product or service.
+
+The maps themselves are generated with an R package called [Leaflet](https://rstudio.github.io/leaflet/), and finally presented here on the web in [Shiny Markdown](https://shiny.rstudio.com/articles/rmarkdown.html). The base map uses a customized [Jawg](https://www.jawg.io) theme called “Boston Bromley,” inspired by the street atlases of yesteryear, which I designed myself for the project. 
+
+&nbsp;
+
 #### The Research Team
 ![](Strykowski.jpg)
 &nbsp;**Derek R. Strykowski,** principal investigator
@@ -172,6 +183,6 @@ Strykowski, Derek R. “Directory of Boston’s `r textOutput("CategoryName4", i
 
 <hr>
 
-©2020 [Derek R. Strykowski](https://dstrykowski.com). This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). The code is available on [GitHub](https://github.com/dstrykowski/boston). Image credit: *Atlas of the City of Boston,* vol. 1 (Philadelphia: Bromley, 1888), plate 28, [Norman B. Leventhal Map & Education Center](https://collections.leventhalmap.org/search/commonwealth:tt44pv74v).  
+©2020–2023 [Derek R. Strykowski](https://dstrykowski.com). This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). The code is available on [GitHub](https://github.com/dstrykowski/boston). Image credit: *Atlas of the City of Boston,* vol. 1 (Philadelphia: Bromley, 1888), plate 28, [Norman B. Leventhal Map & Education Center](https://collections.leventhalmap.org/search/commonwealth:tt44pv74v).  
 &nbsp;  
 &nbsp;  

@@ -666,7 +666,7 @@
 1885,1314,Music Dealers’ Goods,Harrell Mfg. Co.,11 Otis,Boston,MA,42.35694,-71.07235,
 1885,1314,Music Dealers’ Goods,Heath’s Letter File,,Wakefield,MA,42.50689,-71.07201,"Factory at Wakefield, Mass."
 1885,1314,Music Engravers’ Tools,"Hatch, H. & Co.",186 Washington,Boston,MA,42.35926,-71.05766,
-1885,1314,Music Stands,"Richardson, B. F.",13 Bowker,Boston,MA,,,
+1885,1314,Music Stands,"Richardson, B. F.",13 Bowker,Boston,MA,42.36255,-71.06091,
 1885,1314,Music Stands,"White, Eugene A.",352 Atlantic Ave.,Boston,MA,42.35669,-71.04973,
 1885,1314,Music Title Engravers,"Seaverns, Alexander H.",11 Hamilton Pl.,Boston,MA,42.35675,-71.06169,
 1885,1314,Musical Instruments,American Mercantile Co.,50 Cornhill,Boston,MA,42.35954,-71.05866,
@@ -2093,6 +2093,8 @@
 1895,1749,Teachers of Music,Young B. F.,71 Washington,Boston,MA,42.37388,-71.06631,Charlestown
 1895,1749,Teachers of Music,Zahn Franz E.,10 Williams St,Boston,MA,42.33210,-71.08203,"Roxbury, 5 Hotel Comfort"
 1895,1749,Teachers of Music,Zerrahn Carl,453 Washington,Boston,MA,42.35537,-71.06082,
+1905,2065,Music Boxes*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06632, 
+1905,2065,Music Boxes*,Holy Valer,373 Washington,Boston,MA,42.35638,-71.05971,Room 65
 1905,2065,Music Dealers and Publishers,Acme Music Pub. Co.,339 Washington,Boston,MA,42.35680,-71.05919,
 1905,2065,Music Dealers and Publishers,"Ashman, John S.",26 Revere,Boston,MA,42.35974,-71.06746,
 1905,2065,Music Dealers and Publishers,Bates & Bendix,120 Dartmouth,Boston,MA,42.34669,-71.07571,
@@ -2125,17 +2127,12 @@
 1905,2065,Music Dealers and Publishers,White-Smith Music Publishing Co.,62 Stanhope,Boston,MA,42.34816,-71.07329,
 1905,2065,Music Dealers and Publishers,"White, Jean",521 Washington,Boston,MA,42.35422,-71.06202,
 1905,2065,Music Dealers and Publishers,"Wood, B. F. Music Co.",246 Summer,Boston,MA,42.35174,-71.05305,
-1905,2065,Music Printers,Advent Christian Publication Society,160 Warren,Boston,MA,42.32540,-71.08304,Roxbury
-1905,2098,Printers of Music,Advent Christian Publication Society,160 Warren,Boston,MA,42.32540,-71.08304,Roxbury
-1905,2098,Printers of Music,"Gilson, F. H. Co.",54-60 Stanhope,Boston,MA,42.34819,-71.07322,
-1905,2099,Printers of Music,"Loveland, C. F.",21 Hawley,Boston,MA,42.35657,-71.05833,
-1905,2065,Music Boxes,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06632, 
-1905,2065,Music Boxes,Holy Valer,373 Washington,Boston,MA,42.35638,-71.05971,Room 65
+1905,2065,Music Printers*,Advent Christian Publication Society,160 Warren,Boston,MA,42.32540,-71.08304,Roxbury
 1905,2065,Music Strings,Lockhart William J.,28 Beach,Boston,MA,42.30217,-71.05470, 
 1905,2065,Music Strings,Mccarty A. A.,36 Beach,Boston,MA,42.35156,-71.06165, 
 1905,2065,Music Strings,Schindler Hugo,88 Court St,Boston,MA,42.36043,-71.06023, 
-1905,2065,Music Teachers,Doering Karl,162 Boylston,Boston,MA,42.35229,-71.06675,Voice Culture
-1905,2065,Music Teachers,Heinrich Wilhelm,149A Tremont,Boston,MA,42.35501,-71.06322,Room 63
+1905,2065,Music Teachers*,Doering Karl,162 Boylston,Boston,MA,42.35229,-71.06675,Voice Culture
+1905,2065,Music Teachers*,Heinrich Wilhelm,149A Tremont,Boston,MA,42.35501,-71.06322,Room 63
 1905,2065,Musical Instruments,"Æoliań, M. Steinert & Sons Co.",162 Boylston,Boston,MA,42.35229,-71.06675, 
 1905,2065,Musical Instruments,Amelotte N. R.,224 Tremont,Boston,MA,42.35147,-71.06456,Clarinet
 1905,2065,Musical Instruments,Bates G. H. W. & Co.,160 Congress,Boston,MA,42.35589,-71.05575, 
@@ -2145,7 +2142,7 @@
 1905,2065,Musical Instruments,Boston Musical Instrument Co.,51 Chardon,Boston,MA,42.36288,-71.06080, 
 1905,2065,Musical Instruments,Bryant E. F. & O. H.,165 Tremont,Boston,MA,42.35396,-71.06372,Room 38
 1905,2065,Musical Instruments,Cole W. A.,179 Tremont,Boston,MA,42.35291,-71.06408,Banjos
-1905,2065,Musical Instruments,Ditson Oliver Company,150 Tremont,Boston,MA,42.35482,-71.06310, 
+1905,2065,Musical Instruments,Ditson Oliver Company,150 Tremont,Boston,MA,42.35480,-71.06310, 
 1905,2065,Musical Instruments,Dodge F. E. Co.,3 Appleton,Boston,MA,42.34674,-71.06965, 
 1905,2065,Musical Instruments,Edler Henry,180 Tremont,Boston,MA,42.35274,-71.06414,Room 30
 1905,2065,Musical Instruments,Edson Nathan,Music Hall,Boston,MA,42.35623,-71.06083,"15 Music Hall blgd., Violins"
@@ -2162,7 +2159,7 @@
 1905,2065,Musical Instruments,Laws George A.,245 Main St,Boston,MA,42.37693,-71.06653, 
 1905,2065,Musical Instruments,Marquardt George W.,47 Hanover,Boston,MA,42.36144,-71.05739,Room 12. Violin
 1905,2065,Musical Instruments,Mendelssohn Music Co.,172 Tremont,Boston,MA,42.35348,-71.06395, 
-1905,2065,Musical Instruments,Mordeglin Antonio,150 Tremont,Boston,MA,42.35482,-71.06310,Accordions
+1905,2065,Musical Instruments,Mordeglin Antonio,150 Tremont,Boston,MA,42.35480,-71.06310,Accordions
 1905,2065,Musical Instruments,Mutarelli E.,452 Hanover,Boston,MA,42.36696,-71.05293, 
 1905,2065,Musical Instruments,National Gramophone Corp.,43 Milk,Boston,MA,42.35664,-71.05761,Room 3
 1905,2065,Musical Instruments,Oliver F. A.,608 Columbus Ave,Boston,MA,42.33979,-71.08240,Violins
@@ -2189,11 +2186,11 @@
 1905,2065,Musical Instruments,White I. E.,15 Marshall,Boston,MA,42.36154,-71.05675,Repairs
 1905,2065,Musical Instruments,White J. H.,89 Court St,Boston,MA,42.35998,-71.05976,Repairs
 1905,2065,Musical Instruments,White Maurice W.,181 Tremont,Boston,MA,42.35255,-71.06447,Room 32
-1905,2065,"Musical, Literary & Dramatic Agencies",Britt George W.,6 Beacon,Boston,MA,42.35801,-71.06161,Rooms 527-528
-1905,2065,"Musical, Literary & Dramatic Agencies","First Corps Cadets Band Inc., Ernest S. Williams, Mgr.",Music Hall,Boston,MA,42.35623,-71.06083,20 Music Hall bldg
-1905,2065,"Musical, Literary & Dramatic Agencies",John Thomas Entertainment Bureau,131 Tremont,Boston,MA,42.35605,-71.06218,Room 64
-1905,2065,"Musical, Literary & Dramatic Agencies",Leroy W. D.,103 Court St,Boston,MA,42.36040,-71.06005,Telephone Connection. Magic.
-1905,2065,"Musical, Literary & Dramatic Agencies",Ross Orchestra,16 Oak Sq. Ave,Boston,MA,42.35041,-71.16407,"Brighton, Telephone Connection."
+1905,2065,"Musical, Literary & Dramatic Agencies*",Britt George W.,6 Beacon,Boston,MA,42.35801,-71.06161,Rooms 527-528
+1905,2065,"Musical, Literary & Dramatic Agencies*","First Corps Cadets Band Inc., Ernest S. Williams, Mgr.",Music Hall,Boston,MA,42.35623,-71.06083,20 Music Hall bldg
+1905,2065,"Musical, Literary & Dramatic Agencies*",John Thomas Entertainment Bureau,131 Tremont,Boston,MA,42.35605,-71.06218,Room 64
+1905,2065,"Musical, Literary & Dramatic Agencies*",Leroy W. D.,103 Court St,Boston,MA,42.36040,-71.06005,Telephone Connection. Magic.
+1905,2065,"Musical, Literary & Dramatic Agencies*",Ross Orchestra,16 Oak Sq. Ave,Boston,MA,42.35041,-71.16407,"Brighton, Telephone Connection."
 1905,2065,Musicians,Adelphi Quartet,Music Hall,Boston,MA,42.35623,-71.06083,25 Music Hall bldg
 1905,2065,Musicians,Albion Male Quartet,160 Boylston,Boston,MA,42.35229,-71.06668, 
 1905,2065,Musicians,Alpha Orchestra,2 Oakville Ave,Boston,MA,42.32718,-71.08615,Roxbury
@@ -2245,34 +2242,37 @@
 1905,2065,Musicians,Teutonia Band And Orchestra,47 Hanover,Boston,MA,42.36144,-71.05739, 
 1905,2065,Musicians,Tuschinsky'S Orchestra,41 Endicott,Boston,MA,42.36616,-71.05772, 
 1905,2065,Newspapers (Musical),Musician The,150 Tremont,Boston,MA,42.35480,-71.06310,"Monthly, $1;O.Ditson Co."
-1905,2077,Opera and Field Glasses,Adams William C.,165 Tremont,Boston,MA,42.35396,-71.06372, 
-1905,2077,Opera and Field Glasses,Ailman John H. & Son,10 Bromfield,Boston,MA,42.35649,-71.05989, 
-1905,2077,Opera and Field Glasses,"Bigelow, Kennård & Co. ",511 Washington,Boston,MA,42.35434,-71.06207, 
-1905,2077,Opera and Field Glasses,Boston Optical Co.,373 Washington,Boston,MA,42.35638,-71.05971,Room 28
-1905,2077,Opera and Field Glasses,Davis Optical Co.,2 Park Sq.,Boston,MA,42.35221,-71.06718, 
-1905,2077,Opera and Field Glasses,Edmands William H.,31 West St,Boston,MA,42.35487,-71.06243, 
-1905,2077,Opera and Field Glasses,Globe Optical Co.,352 Washington,Boston,MA,42.35653,-71.05913,wholesale
-1905,2077,Opera and Field Glasses,Globe Optical Co.,403 Washington,Boston,MA,42.35604,-71.06013,wholesale
-1905,2077,Opera and Field Glasses,Millar & Weltch,38 West St,Boston,MA,42.35490,-71.06298, 
-1905,2077,Opera and Field Glasses,Parks Ellery M. ,333 Washington,Boston,MA,42.35690,-71.05913, 
-1905,2077,Opera and Field Glasses,Paul A. & Co.,373 Washington,Boston,MA,42.35638,-71.05971, 
-1905,2077,Opera and Field Glasses,Pinkham & Smith,288 Boylston,Boston,MA,42.35192,-71.06966, 
-1905,2077,Opera and Field Glasses,Thaxter & Bro.,23 Bromfield,Boston,MA,42.35675,-71.06001, 
-1905,2077,Opera Chairs,Allen-Thompson-Whitney Co.,112 Canal,Boston,MA,42.36443,-71.06047, 
-1905,2077,Opera Chairs,Harwood H.J.,220 Devonshire,Boston,MA,42.35514,-71.05732, 
-1905,2077,Opera Chairs,Readsboro Chair Mfg. Co.,90 Canal,Boston,MA,42.36405,-71.05992, 
-1905,2077,Opera Glass Repairers,Ostrom Charles G.,21 Bromfield,Boston,MA,42.35675,-71.05987,Room 421
-1905,2077,Opera Glasses,Lloyd Andrew J. & Co.,315-319 Washington,Boston,MA,42.35703,-71.05889,And 310 Boylston
-1905,2077,Opera Glasses,Lloyd Andrew J. & Co.,310 Boylston,Boston,MA,42.35178,-71.07022,And 315-319 Washington
-1905,2078,Orchestras,Alpha Orchestra,2 Oakville Ave,Boston,MA,42.32718,-71.08615,Roxbury
-1905,2078,Orchestras,"Bartlett's Orchestra, J. R. Barlett, Jr",54 India,Boston,MA,42.35831,-71.05252,Telephone
-1905,2078,Orchestras,"Bartlett's Orchestra, J. R. Barlett, Jr",54 India,Boston,MA,42.35831,-71.05252,telephone Main 3617
-1905,2078,Orchestras,"Condit's Orchestra, F.H. Condit, leader",125 Tremont,Boston,MA,42.35653,-71.06171,"Room 3, tel. con."
-1905,2078,Orchestras,"First Corps Cadets Band Ino., Ernest S. Williams, Manager",Music Hall,Boston,MA,42.35623,-71.06083,20 Music Hall bldg
-1905,2078,Orchestras,"Paul Revere Orchestra, F.H. Condit, Leader",125 Tremont,Boston,MA,42.35653,-71.06171,"Room 3, tel. con."
-1905,2078,Orchestras,"Ross's Orchestra, A.M. Ross, Jr.",16 Oak Sq. Ave,Boston,MA,42.35041,-71.16407,"Brighton, Telephone Connection"
-1905,2078,Organ Blowing Apparatus (Electric),Backus Water Motor Co.,45 Washington North,Boston,MA,42.36449,-71.05810, 
-1905,2078,Organ Blowing Apparatus (Electric),Elektron MFG. Co.,179 Lincoln,Boston,MA,42.35056,-71.05908, 
+1905,2077,Opera and Field Glasses*,Adams William C.,165 Tremont,Boston,MA,42.35396,-71.06372, 
+1905,2077,Opera and Field Glasses*,Ailman John H. & Son,10 Bromfield,Boston,MA,42.35649,-71.05989, 
+1905,2077,Opera and Field Glasses*,"Bigelow, Kennård & Co. ",511 Washington,Boston,MA,42.35434,-71.06207, 
+1905,2077,Opera and Field Glasses*,Boston Optical Co.,373 Washington,Boston,MA,42.35638,-71.05971,Room 28
+1905,2077,Opera and Field Glasses*,Davis Optical Co.,2 Park Sq.,Boston,MA,42.35221,-71.06718, 
+1905,2077,Opera and Field Glasses*,Edmands William H.,31 West St,Boston,MA,42.35487,-71.06243, 
+1905,2077,Opera and Field Glasses*,Globe Optical Co.,352 Washington,Boston,MA,42.35653,-71.05913,wholesale
+1905,2077,Opera and Field Glasses*,Globe Optical Co.,403 Washington,Boston,MA,42.35604,-71.06013,wholesale
+1905,2077,Opera and Field Glasses*,Millar & Weltch,38 West St,Boston,MA,42.35490,-71.06298, 
+1905,2077,Opera and Field Glasses*,Parks Ellery M. ,333 Washington,Boston,MA,42.35690,-71.05913, 
+1905,2077,Opera and Field Glasses*,Paul A. & Co.,373 Washington,Boston,MA,42.35638,-71.05971, 
+1905,2077,Opera and Field Glasses*,Pinkham & Smith,288 Boylston,Boston,MA,42.35192,-71.06966, 
+1905,2077,Opera and Field Glasses*,Thaxter & Bro.,23 Bromfield,Boston,MA,42.35675,-71.06001, 
+1905,2077,Opera Chairs*,Allen-Thompson-Whitney Co.,112 Canal,Boston,MA,42.36443,-71.06047, 
+1905,2077,Opera Chairs*,Harwood H.J.,220 Devonshire,Boston,MA,42.35514,-71.05732, 
+1905,2077,Opera Chairs*,Readsboro Chair Mfg. Co.,90 Canal,Boston,MA,42.36405,-71.05992, 
+1905,2077,Opera Glass Repairers*,Ostrom Charles G.,21 Bromfield,Boston,MA,42.35675,-71.05987,Room 421
+1905,2077,Opera Glasses*,Lloyd Andrew J. & Co.,315-319 Washington,Boston,MA,42.35703,-71.05889,And 310 Boylston
+1905,2077,Opera Glasses*,Lloyd Andrew J. & Co.,310 Boylston,Boston,MA,42.35178,-71.07022,And 315-319 Washington
+1905,2078,Orchestras*,Alpha Orchestra,2 Oakville Ave,Boston,MA,42.32718,-71.08615,Roxbury
+1905,2078,Orchestras*,"Bartlett's Orchestra, J. R. Barlett, Jr",54 India,Boston,MA,42.35831,-71.05252,Telephone
+1905,2078,Orchestras*,"Bartlett's Orchestra, J. R. Barlett, Jr",54 India,Boston,MA,42.35831,-71.05252,telephone Main 3617
+1905,2078,Orchestras*,"Condit's Orchestra, F.H. Condit, leader",125 Tremont,Boston,MA,42.35653,-71.06171,"Room 3, tel. con."
+1905,2078,Orchestras*,"First Corps Cadets Band Ino., Ernest S. Williams, Manager",Music Hall,Boston,MA,42.35623,-71.06083,20 Music Hall bldg
+1905,2078,Orchestras*,"Paul Revere Orchestra, F.H. Condit, Leader",125 Tremont,Boston,MA,42.35653,-71.06171,"Room 3, tel. con."
+1905,2078,Orchestras*,"Ross's Orchestra, A.M. Ross, Jr.",16 Oak Sq. Ave,Boston,MA,42.35041,-71.16407,"Brighton, Telephone Connection"
+1905,2078,Organ and Piano Dealers*,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
+1905,2078,Organ and Piano Leather*,White Son Company,530-540 Atlantic Ave,Boston,MA,42.35366,-71.05319,telephone Main 196
+1905,2078,Organ and Piano Tuner*,Locke Frank A.,54 Bromfield,Boston,MA,42.35687,-71.06072,telephone
+1905,2078,Organ Blowing Apparatus (Electric)*,Backus Water Motor Co.,45 Washington North,Boston,MA,42.36449,-71.05810, 
+1905,2078,Organ Blowing Apparatus (Electric)*,Elektron MFG. Co.,179 Lincoln,Boston,MA,42.35056,-71.05908, 
 1905,2078,Organ Builders,Aeolian M. Steinert & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
 1905,2078,Organ Builders,Cole Church Organ Co.,99 Bristol,Boston,MA,42.34244,-71.06341,And 101 Bristol
 1905,2078,Organ Builders,Cole Church Organ Co.,101 Bristol,Boston,MA,42.34235,-71.06336,And 99 Bristol
@@ -2285,11 +2285,8 @@
 1905,2078,Organ Builders,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
 1905,2078,Organ Builders,Woodberry Jesse & Co. ,520 Harrison Ave,Boston,MA,42.34173,-71.06625,And 530 Harrison
 1905,2078,Organ Builders,Woodberry Jesse & Co. ,530 Harrison,Boston,MA,42.34149,-71.06667,And 520 Harrison
-1905,2078,Organ Supplies,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
-1905,2078,Organ and Piano Dealers,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
-1905,2078,Organ and Piano Leather,White Son Company,530-540 Atlantic Ave,Boston,MA,42.35366,-71.05319,telephone Main 196
-1905,2078,Organ and Piano Tuners,Locke Frank A.,54 Bromfield,Boston,MA,42.35687,-71.06072,telephone
-1905,2092,Piano Covers and Scarfs,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
+1905,2078,Organ Supplies*,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
+1905,2092,Piano Covers and Scarfs*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
 1905,2092,Piano Dealers,Anderson F. Piano Co.,414 Albany,Boston,MA,42.33947,-71.06488, 
 1905,2092,Piano Dealers,Arnold Charles S.,350 Meridian,Boston,MA,42.37858,-71.03935,East Boston
 1905,2092,Piano Dealers,Barnard Frank L.,657 Washington,Boston,MA,42.35210,-71.06314, 
@@ -2339,8 +2336,17 @@
 1905,2092,Piano Dealers,Vose & Sons Piano Co.,160 Boylston,Boston,MA,42.35229,-71.06668,And 158 Boylston
 1905,2092,Piano Dealers,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414,"East Boston, Wood, mgr."
 1905,2092,Piano Dealers,Wyman J. Stearns,94 Blackstone,Boston,MA,42.36149,-71.05637, 
-1905,2092,Piano Derricks,Breen WM. H.,178 Main,Boston,MA,42.37604,-71.06538,Charlestown
-1905,2093,Piano Hardware,Moore George W.,15 Chardon,Boston,MA,42.36219,-71.06209,Tuning Hammers
+1905,2092,Piano Derricks*,Breen WM. H.,178 Main,Boston,MA,42.37604,-71.06538,Charlestown
+1905,2093,Piano & Organ Felts*,Byfield Felting Mills,68 Essex,Boston,MA,42.35273,-71.06073, 
+1905,2093,Piano & Organ Manfacturers’ Supplies,Bigelow Waldo H.,147 Milk,Boston,MA,42.35748,-71.05430,"Room 364, Telephone. Hard wood Lumber"
+1905,2093,Piano & Organ Manfacturers’ Supplies,Lincoln Charles H.,73 Haverhill,Boston,MA,42.36508,-71.05956,Nuts
+1905,2093,Piano & Organ Manfacturers’ Supplies,McGreece James P. & Co.,34 Beach,Boston,MA,42.35155,-71.06169,Hardware
+1905,2093,Piano & Organ Manfacturers’ Supplies,Norris Noiseless Pedal Action Co.,3 Appleton,Boston,MA,42.34674,-71.06965, 
+1905,2093,Piano & Organ Manfacturers’ Supplies,Weston W. M. Co.,120 Milk,Boston,MA,42.35801,-71.05423,"And 166 Devonshire, Telephone. Hardwood Lumber"
+1905,2093,Piano & Organ Manfacturers’ Supplies,Weston W. M. Co.,166 Devonshire,Boston,MA,42.35614,-71.05706,Telephone. Hardwood Lumber. And 120 Milk
+1905,2093,Piano & Organ Manfacturers’ Supplies,Whitney Charles E.,3 Appleton,Boston,MA,42.34674,-71.06965,Keys
+1905,2093,Piano & Organ Supplies*,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
+1905,2093,Piano Hardware*,Moore George W.,15 Chardon,Boston,MA,42.36219,-71.06209,Tuning Hammers
 1905,2093,Piano Manufacturers,Anderson F. Piano Co.,414 Albany,Boston,MA,42.33947,-71.06488, 
 1905,2093,Piano Manufacturers,Auto Electric Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414,Room 20
 1905,2093,Piano Manufacturers,Berry H. W.,646 Washington,Boston,MA,42.35203,-71.06258, 
@@ -2376,43 +2382,43 @@
 1905,2093,Piano Manufacturers,Vose & Sons Piano Co.,1010 Massachusetts Ave,Boston,MA,42.32765,-71.06736,And 158 Boylston and 160 Boylston
 1905,2093,Piano Manufacturers,Wentworth Piano Co.,41 Bristol,Boston,MA,42.34269,-71.06429, 
 1905,2093,Piano Manufacturers,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
-1905,2093,Piano Movers,Breen WM. H.,172 Main,Boston,MA,42.37564,-71.06482,Charlestown
-1905,2093,Piano Movers,Buckley Thomas G.,687 Dudley,Boston,MA,42.31861,-71.06905, 
-1905,2093,Piano Movers,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712, 
-1905,2093,Piano Movers,Day Otis P.,1A Warrenton,Boston,MA,42.34964,-71.06591,"Corner of Washington, Phone 1946-3"
-1905,2093,Piano Movers,Dunn Daniel W. & Co.,32 Bromfield,Boston,MA,42.35669,-71.06038,And 4 Province ct.
-1905,2093,Piano Movers,Dunn Daniel W. & Co.,4 Province ct.,Boston,MA,42.35727,-71.05977,And 32 Bromfield
-1905,2093,Piano Movers,Hamblen A. W. & Co.,7 State,Boston,MA,42.35876,-71.05770, 
-1905,2093,Piano Movers,Mcanirlin & Morgan,1872 Washington,Boston,MA,42.33522,-71.07883,"And 75 Warren, Roxbury And 300 Warren, Roxbury"
-1905,2093,Piano Movers,Mcanirlin & Morgan,300 Warren,Boston,MA,42.32059,-71.08146,"Roxbury And 75 Warren, Roxbury"
-1905,2093,Piano Movers,Mcanirlin & Morgan,75 Warren,Boston,MA,42.32825,-71.08342,Roxbury. And 1872 Washington
-1905,2093,Piano Movers,Ridlon Oscar G.,2078 Washington,Boston,MA,42.33268,-71.08092, 
-1905,2093,Piano Movers,Ridlon William,34 LaGrange,Boston,MA,42.35152,-71.06433, 
-1905,2093,Piano Movers,Shedd George G.,158 Shawmut Ave,Boston,MA,42.34533,-71.06635, 
-1905,2093,Piano Movers,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
-1905,2093,Piano Movers,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
-1905,2093,Piano Packers,Buckley Thomas G.,687 Dudley,Boston,MA,42.31861,-71.06905, 
-1905,2093,Piano Packers,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712, 
-1905,2093,Piano Packers,Hamblen A. W. & Co.,7 State,Boston,MA,42.35876,-71.05770, 
-1905,2093,Piano Players,Hallet & Davis Piano Co.,146 Boylston,Boston,MA,42.35228,-71.06641,Factory Randolph st.
-1905,2093,Piano Players,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06632, 
-1905,2093,Piano Players,Smith Chandler W. Co.,120 Boylston,Boston,MA,42.35226,-71.06572, 
-1905,2093,Piano Players,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
-1905,2093,Piano Players,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414,Self-playing
+1905,2093,Piano Movers*,Breen WM. H.,172 Main,Boston,MA,42.37564,-71.06482,Charlestown
+1905,2093,Piano Movers*,Buckley Thomas G.,687 Dudley,Boston,MA,42.31861,-71.06905, 
+1905,2093,Piano Movers*,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712, 
+1905,2093,Piano Movers*,Day Otis P.,1A Warrenton,Boston,MA,42.34964,-71.06591,"Corner of Washington, Phone 1946-3"
+1905,2093,Piano Movers*,Dunn Daniel W. & Co.,32 Bromfield,Boston,MA,42.35669,-71.06038,And 4 Province ct.
+1905,2093,Piano Movers*,Dunn Daniel W. & Co.,4 Province ct.,Boston,MA,42.35727,-71.05977,And 32 Bromfield
+1905,2093,Piano Movers*,Hamblen A. W. & Co.,7 State,Boston,MA,42.35876,-71.05770, 
+1905,2093,Piano Movers*,Mcanirlin & Morgan,1872 Washington,Boston,MA,42.33522,-71.07883,"And 75 Warren, Roxbury And 300 Warren, Roxbury"
+1905,2093,Piano Movers*,Mcanirlin & Morgan,300 Warren,Boston,MA,42.32059,-71.08146,"Roxbury And 75 Warren, Roxbury"
+1905,2093,Piano Movers*,Mcanirlin & Morgan,75 Warren,Boston,MA,42.32825,-71.08342,Roxbury. And 1872 Washington
+1905,2093,Piano Movers*,Ridlon Oscar G.,2078 Washington,Boston,MA,42.33268,-71.08092, 
+1905,2093,Piano Movers*,Ridlon William,34 LaGrange,Boston,MA,42.35152,-71.06433, 
+1905,2093,Piano Movers*,Shedd George G.,158 Shawmut Ave,Boston,MA,42.34533,-71.06635, 
+1905,2093,Piano Movers*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
+1905,2093,Piano Movers*,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
+1905,2093,Piano Packers*,Buckley Thomas G.,687 Dudley,Boston,MA,42.31861,-71.06905, 
+1905,2093,Piano Packers*,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712, 
+1905,2093,Piano Packers*,Hamblen A. W. & Co.,7 State,Boston,MA,42.35876,-71.05770, 
+1905,2093,Piano Players*,Hallet & Davis Piano Co.,146 Boylston,Boston,MA,42.35228,-71.06641,Factory Randolph st.
+1905,2093,Piano Players*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06632, 
+1905,2093,Piano Players*,Smith Chandler W. Co.,120 Boylston,Boston,MA,42.35226,-71.06572, 
+1905,2093,Piano Players*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
+1905,2093,Piano Players*,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414,Self-playing
 1905,2093,Piano Repairers,Bates Walter J. Co.,124 Boylston,Boston,MA,42.35225,-71.06584, 
 1905,2093,Piano Repairers,Hallet & Davis Piano Co.,146 Boylston,Boston,MA,42.35228,-71.06641, 
 1905,2093,Piano Repairers,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06632, 
 1905,2093,Piano Repairers,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
-1905,2093,Piano Specialist,Locke Frank A. office,54 Bromfield,Boston,MA,42.35687,-71.06072,"Pianos selected for persons about to buy, and $25 to $75 saved on prices. 30 years experience, telephone at office and residence."
-1905,2093,Piano Stool Manufacturers,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
-1905,2093,Piano Stools,Bourne Wm. & Son Piano Co.,172 Tremont,Boston,MA,42.35348,-71.06395, 
-1905,2093,Piano Stools,Cundall Emmons M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491, 
-1905,2093,Piano Stools,Lansing E. H.,44 Boylston,Boston,MA,42.35217,-71.06391, 
-1905,2093,Piano Stools,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07199, 
-1905,2093,Piano Stools,Paine Furniture Co.,48 Canal,Boston,MA,42.36356,-71.05933, 
-1905,2093,Piano Stools,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
-1905,2093,Piano Stools,Vose & Sons Piano Co.,158 Boylston,Boston,MA,42.35233,-71.06610,And 160 Boylston
-1905,2093,Piano Stools,Vose & Sons Piano Co.,160 Boylston,Boston,MA,42.35229,-71.06668,And 158 Boylston
+1905,2093,Piano Specialist*,Locke Frank A. office,54 Bromfield,Boston,MA,42.35687,-71.06072,"Pianos selected for persons about to buy, and $25 to $75 saved on prices. 30 years experience, telephone at office and residence."
+1905,2093,Piano Stool Manufacturers*,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
+1905,2093,Piano Stools*,Bourne Wm. & Son Piano Co.,172 Tremont,Boston,MA,42.35348,-71.06395, 
+1905,2093,Piano Stools*,Cundall Emmons M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491, 
+1905,2093,Piano Stools*,Lansing E. H.,44 Boylston,Boston,MA,42.35217,-71.06391, 
+1905,2093,Piano Stools*,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07199, 
+1905,2093,Piano Stools*,Paine Furniture Co.,48 Canal,Boston,MA,42.36356,-71.05933, 
+1905,2093,Piano Stools*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06675, 
+1905,2093,Piano Stools*,Vose & Sons Piano Co.,158 Boylston,Boston,MA,42.35233,-71.06610,And 160 Boylston
+1905,2093,Piano Stools*,Vose & Sons Piano Co.,160 Boylston,Boston,MA,42.35229,-71.06668,And 158 Boylston
 1905,2093,Piano Tuners,Adams F. H.,147 Eustis,Boston,MA,42.32871,-71.07782, 
 1905,2093,Piano Tuners,Allen Lewis E.,564 Washington,Boston,MA,42.35346,-71.06233, 
 1905,2093,Piano Tuners,Ashdown John,521 Washington,Boston,MA,42.35434,-71.06207,Room 2
@@ -2510,19 +2516,13 @@
 1905,2093,Piano Tuners,Wood Edward A.,110 Boylston,Boston,MA,42.35225,-71.06556, 
 1905,2093,Piano Tuners,Wood Piano Co.,180 Tremont,Boston,MA,42.35274,-71.06414, 
 1905,2093,Piano Tuners,Wright Joseph W.,57 St. James Ave.,Boston,MA,42.35070,-71.07207, 
-1905,2093,Piano Tuners' Supplies,Tuners' Supply Co.,Huntington Ave ,Boston,MA,42.34118,-71.08623,"Corner of Gainsborough, New England Conservatory of Music"
-1905,2093,Piano & Organ Felts,Byfield Felting Mills,68 Essex,Boston,MA,42.35273,-71.06073, 
-1905,2093,Piano & Organ Manufacturers. Supplies,Bigelow Waldo H.,147 Milk,Boston,MA,42.35748,-71.05430,"Room 364, Telephone. Hard wood Lumber"
-1905,2093,Piano & Organ Manufacturers. Supplies,Lincoln Charles H.,73 Haverhill,Boston,MA,42.36508,-71.05956,Nuts
-1905,2093,Piano & Organ Manufacturers. Supplies,McGreece James P. & Co.,34 Beach,Boston,MA,42.35155,-71.06169,Hardware
-1905,2093,Piano & Organ Manufacturers. Supplies,Norris Noiseless Pedal Action Co.,3 Appleton,Boston,MA,42.34674,-71.06965, 
-1905,2093,Piano & Organ Manufacturers. Supplies,Weston W. M. Co.,120 Milk,Boston,MA,42.35801,-71.05423,"And 166 Devonshire, Telephone. Hardwood Lumber"
-1905,2093,Piano & Organ Manufacturers. Supplies,Weston W. M. Co.,166 Devonshire,Boston,MA,42.35614,-71.05706,Telephone. Hardwood Lumber. And 120 Milk
-1905,2093,Piano & Organ Manufacturers. Supplies,Whitney Charles E.,3 Appleton,Boston,MA,42.34674,-71.06965,Keys
-1905,2093,Piano & Organ Supplies,Cundall E. M. & Son,209 Tremont,Boston,MA,42.35156,-71.06491,Stools and Covers
-1905,2093,Pianos (Upright),Emerson Piano Co.,120 Boylston,Boston,MA,42.35226,-71.06572,Room 303
-1905,2093,Pianos (Upright),Poole Piano Co.,5 Appleton,Boston,MA,42.34671,-71.06984,And 7 Appleton
-1905,2093,Pianos (Upright),Poole Piano Co.,7 Appleton,Boston,MA,42.34659,-71.06985,And 5 Appleton
+1905,2093,Piano Tuners' Supplies*,Tuners' Supply Co.,Huntington Ave ,Boston,MA,42.34118,-71.08623,"Corner of Gainsborough, New England Conservatory of Music"
+1905,2093,Pianos (Upright)*,Emerson Piano Co.,120 Boylston,Boston,MA,42.35226,-71.06572,Room 303
+1905,2093,Pianos (Upright)*,Poole Piano Co.,5 Appleton,Boston,MA,42.34671,-71.06984,And 7 Appleton
+1905,2093,Pianos (Upright)*,Poole Piano Co.,7 Appleton,Boston,MA,42.34659,-71.06985,And 5 Appleton
+1905,2098,Printers of Music,Advent Christian Publication Society,160 Warren,Boston,MA,42.32540,-71.08304,Roxbury
+1905,2098,Printers of Music,"Gilson, F. H. Co.",54-60 Stanhope,Boston,MA,42.34819,-71.07322,
+1905,2099,Printers of Music,"Loveland, C. F.",21 Hawley,Boston,MA,42.35657,-71.05833,
 1905,2143,Teachers of Music,Adamo Alfonso G.,372 Boylston,Boston,MA,42.35142,-71.07168,Violin and Piano
 1905,2143,Teachers of Music,Adams Carrie H. Mrs.,159A Tremont,Boston,MA,42.35405,-71.06402,Room 5
 1905,2143,Teachers of Music,Adams Charles R. Mrs.,130 St. Botolph,Boston,MA,42.34389,-71.08176, 
@@ -3355,7 +3355,7 @@
 1905,2146,Teachers of Music,Zahn Franz E.,10 Williams St,Boston,MA,42.33210,-71.08203," Roxbury, 15 Hotel Comfort"
 1905,2147,Teachers of Music,Doering Karl,162 Boylston,Boston,MA,42.35229,-71.06675,Room 27
 1905,2147,Teachers of Music,Heinrich Wilhelm,149A Tremont,Boston,MA,42.35501,-71.06322,Room 63
-1915,2111,Band Instruments,Ditson Oliver Co.,150 Tremont,Boston,MA,42.35482,-71.06310,
+1915,2111,Band Instruments*,Ditson Oliver Co.,150 Tremont,Boston,MA,42.35480,-71.06310,
 1915,2111,"Bands, Orchestras and Quarlets",Adelphi Quartet,218 Tremont,Boston,MA,42.35160,-71.06440,Room 401
 1915,2111,"Bands, Orchestras and Quarlets",Albion Male Quartet,160 Boylston,Boston,MA,42.35229,-71.06670,
 1915,2111,"Bands, Orchestras and Quarlets",Alling Benjamin B.,24 Abbot,Boston,MA,42.29654,-71.08553,
@@ -3432,7 +3432,7 @@
 1915,2111,"Bands, Orchestras and Quarlets",Woodbridge Orchestra,16 Garrison Hall,Boston,MA,42.34617,-71.07960,
 1915,2111,"Bands, Orchestras and Quarlets",Wotton's Orchestra,336 Talbot Ave,Boston,MA,42.29048,-71.07238,
 1915,2111,"Bands, Orchestras and Quarlets",Zigman's Orchestra,103 Leverett,Boston,MA,42.36674,-71.06720,
-1915,2270,Music Boxes,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
+1915,2270,Music Boxes*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
 1915,2270,Music Dealers and Publishers,Academy Music Store,135 Dudley,Boston,MA,42.32864,-71.08439,
 1915,2270,Music Dealers and Publishers,Acorn Publishing Co.,181 Tremont,Boston,MA,42.35255,-71.06450,
 1915,2270,Music Dealers and Publishers,Ashdown Percy,218 Tremont,Boston,MA,42.35160,-71.06440,Room 312
@@ -3442,7 +3442,7 @@
 1915,2270,Music Dealers and Publishers,Colonial Music Publishing Co.,45 Lyndhurst,Boston,MA,42.29278,-71.06962,
 1915,2270,Music Dealers and Publishers,Coupon Music Co.,611 Washington ,Boston,MA,42.35284,-71.06277,Room 511
 1915,2270,Music Dealers and Publishers,Daly Music Publisher Inc.,665 Washington,Boston,MA,42.35176,-71.06310,Room 404
-1915,2270,Music Dealers and Publishers,Ditson Oliver Company,150 Tremont,Boston,MA,42.35482,-71.06310,
+1915,2270,Music Dealers and Publishers,Ditson Oliver Company,150 Tremont,Boston,MA,42.35480,-71.06310,
 1915,2270,Music Dealers and Publishers,Evans Music Co.,134 Summer,Boston,MA,42.35348,-71.05740,
 1915,2270,Music Dealers and Publishers,Faelten Pianoforte School,30 Huntington Ave,Boston,MA,42.34884,-71.07720,
 1915,2270,Music Dealers and Publishers,Feist Leo Inc,176 Tremont,Boston,MA,42.35312,-71.06410,
@@ -3480,11 +3480,11 @@
 1915,2270,Music Dealers and Publishers,White Bros. Publishing Co.,230 Dorchester Ave,Boston,MA,42.33979,-71.05680,
 1915,2270,Music Dealers and Publishers,White-Smith Music Publishing Co.,62 Stanhope,Boston,MA,42.34838,-71.07370,
 1915,2270,Music Dealers and Publishers,Wood B. F. Music Co.,246 Summer,Boston,MA,42.35158,-71.05280,
-1915,2270,Music Rolls,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07200,
+1915,2270,Music Rolls*,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07200,
 1915,2270,Music Strings,Lockhart William J.,28 Beach,Boston,MA,42.30217,-71.05470,Rear
 1915,2270,Music Strings,McCarty A. A.,36 Beach,Boston,MA,42.35156,-71.06165,
 1915,2270,Music Strings,Schindler Hugo & Co.,121 Lamartine,Boston,MA,42.31924,-71.10350,
-1915,2270,Musical Agencies,Leroy W. D.,103 Court St,Boston,MA,42.36040,-71.06005,Room 3. Telephone Connection
+1915,2270,Musical Agencies*,Leroy W. D.,103 Court St,Boston,MA,42.36040,-71.06005,Room 3. Telephone Connection
 1915,2270,Musical Instruments,Amelotte N. R.,224 Tremont,Boston,MA,42.35147,-71.06460,Room 22. Clarinet
 1915,2270,Musical Instruments,Boston Musical Instrument Co.,51 Chardon,Boston,MA,42.36288,-71.06080,
 1915,2270,Musical Instruments,Bryant E. F.,165 Tremont,Boston,MA,42.35396,-71.06370,Room 38
@@ -3494,7 +3494,7 @@
 1915,2270,Musical Instruments,Cole F. E.,3 Appleton,Boston,MA,42.34674,-71.06970,Banjos
 1915,2270,Musical Instruments,Columbia Graphophone Co.,174 Tremont,Boston,MA,42.35354,-71.06420,
 1915,2270,Musical Instruments,Continental Credit Co.,564 Washington,Boston,MA,42.35346,-71.06233,Room 407
-1915,2270,Musical Instruments,Ditson Oliver Company,150 Tremont,Boston,MA,42.35482,-71.06310,
+1915,2270,Musical Instruments,Ditson Oliver Company,150 Tremont,Boston,MA,42.35480,-71.06310,
 1915,2270,Musical Instruments,Edler J. Henry,8 Bosworth,Boston,MA,42.35693,-71.06060,Violin Maker
 1915,2270,Musical Instruments,Fairbanks A. C. Co.,62 Sudbury,Boston,MA,42.36273,-71.05830,
 1915,2270,Musical Instruments,Furbush-Davis Piano Co.,294 Boylston,Boston,MA,42.35182,-71.06980,
@@ -3525,7 +3525,7 @@
 1915,2271,Musical Instruments,Stomberg Charles A.,40 Sudbury,Boston,MA,42.36184,-71.06030,
 1915,2271,Musical Instruments,Thoma Jacob & Son,47 Winter,Boston,MA,42.35624,-71.06180,Room 304. Violins
 1915,2271,Musical Instruments,Tibbs Oscar M.,3 Appleton,Boston,MA,42.34674,-71.06970,
-1915,2271,Musical Instruments,Tosi Music Co.,The 279 Hanover,Boston,MA,42.36362,-71.05450,
+1915,2271,Musical Instruments,Tosi Music Co.,279 Hanover,Boston,MA,42.36362,-71.05450,
 1915,2271,Musical Instruments,Vega Company,62 Sudbury,Boston,MA,42.36273,-71.05830,
 1915,2271,Musical Instruments,Ward C. C.,249 Columbus Ave,Boston,MA,42.34739,-71.07360,
 1915,2271,Musical Instruments,"Weeman, Beal & Holmberg",564 Washington,Boston,MA,42.35346,-71.06233,Room 527. Violins
@@ -3535,24 +3535,28 @@
 1915,2273,Newspapers (Musical),Music Era,66 Hanover,Boston,MA,42.36197,-71.05720,"Bi-monthly, 50¢, Music Era Publishing Co."
 1915,2273,Newspapers (Musical),Music Trades,120 Boylston,Boston,MA,42.35226,-71.06570,"The Music Trades Co. Monthly, $2, Room 1011"
 1915,2273,Newspapers (Musical),Musical America,120 Boylston,Boston,MA,42.35226,-71.06570,"Weekly, $2; Music America Co., Room 1011"
-1915,2273,Newspapers (Musical),Musician,150 Tremont,Boston,MA,42.35482,-71.06310,"Monthly, $1.50; Oliver Ditson Company"
-1915,2286,Opera Chairs,American Seating Co.,70 Franklin,Boston,MA,42.35562,-71.05816,
-1915,2286,Opera Chairs,Heywood Brothers and Wakefield Company,174 Portland,Boston,MA,42.36414,-71.06180,
-1915,2286,Opera Glasses,Lloyd Andrew J. Company,315-319 Washington,Boston,MA,42.35703,-71.05889,"And 310 Boylston. And 75 Summer. And Harvard sq., Cambridge"
-1915,2286,Opera Glasses,Lloyd Andrew J. Company,310 Boylston,Boston,MA,42.35178,-71.07020,"And. 315-319 Washington. And 75 Summer. And Harvard sq., Cambridge"
-1915,2286,Opera Glasses,Lloyd Andrew J. Company,75 Summer,Boston,MA,42.35407,-71.05880,"And 315-319 Washington. And 310 Boylston. And Harvard sq., Cambridge"
-1915,2286,Opera and Field Glasses,Adams William C.,332 Boylston,Boston,MA,42.35166,-71.07090,
-1915,2286,Opera and Field Glasses,Globe Optical Co.,403 Washington,Boston,MA,42.35604,-71.06013,
-1915,2286,Opera and Field Glasses,Montgomery-Frost Co.,366 Boylston,Boston,MA,42.35149,-71.07150,And 40 Bromfield
-1915,2286,Opera and Field Glasses,Montgomery-Frost Co.,40 Bromfield,Boston,MA,42.35671,-71.06060,And 366 Boylston
-1915,2286,Opera and Field Glasses,Paul A. & Co.,373 Washington,Boston,MA,42.35638,-71.05970,Importers
-1915,2286,Opera and Field Glasses,Pinkham & Smith Company,288 Boylston,Boston,MA,42.35184,-71.06980,And 13 1/2 Bromfield
-1915,2286,Opera and Field Glasses,Pinkham & Smith Company,13 1/2 Bromfield,Boston,MA,42.35650,-71.06000,And 288 Boylston
-1915,2286,Opera and Field Glasses,Pollard Ralph L.,406 Boylston,Boston,MA,42.35128,-71.07220,
-1915,2288,Organ Blowers,Estey Organ Co.,120 Boylston,Boston,MA,42.35226,-71.06570,Room 330
-1915,2288,Organ Blowers,"Foster A. C. sales agent, Organ Power Co.",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
-1915,2288,Organ Blowers,Kimball Smallman & Frazee,520 Harrison Ave,Boston,MA,42.34173,-71.06630,
-1915,2288,Organ Blowers,"Organ Power Co., A. C. Foster, sales agent",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
+1915,2273,Newspapers (Musical),Musician,150 Tremont,Boston,MA,42.35480,-71.06310,"Monthly, $1.50; Oliver Ditson Company"
+1915,2286,Opera and Field Glasses*,Adams William C.,332 Boylston,Boston,MA,42.35166,-71.07090,
+1915,2286,Opera and Field Glasses*,Globe Optical Co.,403 Washington,Boston,MA,42.35604,-71.06013,
+1915,2286,Opera and Field Glasses*,Montgomery-Frost Co.,366 Boylston,Boston,MA,42.35149,-71.07150,And 40 Bromfield
+1915,2286,Opera and Field Glasses*,Montgomery-Frost Co.,40 Bromfield,Boston,MA,42.35671,-71.06060,And 366 Boylston
+1915,2286,Opera and Field Glasses*,Paul A. & Co.,373 Washington,Boston,MA,42.35638,-71.05970,Importers
+1915,2286,Opera and Field Glasses*,Pinkham & Smith Company,288 Boylston,Boston,MA,42.35184,-71.06980,And 13 1/2 Bromfield
+1915,2286,Opera and Field Glasses*,Pinkham & Smith Company,13 1/2 Bromfield,Boston,MA,42.35650,-71.06000,And 288 Boylston
+1915,2286,Opera and Field Glasses*,Pollard Ralph L.,406 Boylston,Boston,MA,42.35128,-71.07220,
+1915,2286,Opera Chairs*,American Seating Co.,70 Franklin,Boston,MA,42.35562,-71.05816,
+1915,2286,Opera Chairs*,Heywood Brothers and Wakefield Company,174 Portland,Boston,MA,42.36414,-71.06180,
+1915,2286,Opera Glasses*,Lloyd Andrew J. Company,315-319 Washington,Boston,MA,42.35703,-71.05889,"And 310 Boylston. And 75 Summer. And Harvard sq., Cambridge"
+1915,2286,Opera Glasses*,Lloyd Andrew J. Company,310 Boylston,Boston,MA,42.35178,-71.07020,"And. 315-319 Washington. And 75 Summer. And Harvard sq., Cambridge"
+1915,2286,Opera Glasses*,Lloyd Andrew J. Company,75 Summer,Boston,MA,42.35407,-71.05880,"And 315-319 Washington. And 310 Boylston. And Harvard sq., Cambridge"
+1915,2288,Organ and Piano Tuners and Repairers*,Locke Frank A,10 Bromfield ,Boston,MA,42.35649,-71.05990,"And 34 Montclair Ave, Roslindale, Telephone in residence"
+1915,2288,Organ and Piano Tuners and Repairers*,Locke Frank A,34 Montclair Ave ,Boston,MA,42.29059,-71.14230,Roslindale. And 10 Bromfield. Telephone in residence.
+1915,2288,Organ and Piano Tuners and Repairers*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2288,Organ and Player Piano Leather*,"White, Son Company",530-540 Atlantic Ave,Boston,MA,42.35366,-71.05320,Telephone Main 196
+1915,2288,Organ Blowers*,Estey Organ Co.,120 Boylston,Boston,MA,42.35226,-71.06570,Room 330
+1915,2288,Organ Blowers*,"Foster A. C. sales agent, Organ Power Co.",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
+1915,2288,Organ Blowers*,Kimball Smallman & Frazee,520 Harrison Ave,Boston,MA,42.34173,-71.06630,
+1915,2288,Organ Blowers*,"Organ Power Co., A. C. Foster, sales agent",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
 1915,2288,Organ Builders,"Ã†olian, M. Steinert & Sons Co.",162-168 Boylston,Boston,MA,42.35229,-71.06680,
 1915,2288,Organ Builders,DeCourey Andrew B. & Co.,634 Harrison Ave,Boston,MA,42.33974,-71.06880,
 1915,2288,Organ Builders,Estey Organ Co.,120 Boylston,Boston,MA,42.35226,-71.06570,Room 330
@@ -3562,17 +3566,13 @@
 1915,2288,Organ Builders,Mason & Hamlin Co.,494 Boylston,Boston,MA,42.35083,-71.07413,"And 492 Boylston. And 162 Broadway, Cambridge"
 1915,2288,Organ Builders,Skinner Ernest M. Co.,215 Sydney,Boston,MA,42.31871,-71.05251,
 1915,2288,Organ Builders,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2288,Organ Supplies,"Organ Power Co., A. C. Foster, sales agent",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
-1915,2288,Organ and Piano Tuners and Repairers,Locke Frank A,10 Bromfield ,Boston,MA,42.35649,-71.05990,"And 34 Montclair Ave, Roslindale, Telephone in residence"
-1915,2288,Organ and Piano Tuners and Repairers,Locke Frank A,34 Montclair Ave ,Boston,MA,42.29059,-71.14230,Roslindale. And 10 Bromfield. Telephone in residence.
-1915,2288,Organ and Piano Tuners and Repairers,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2288,Organ and Player Piano Leather,"White, Son Company",530-540 Atlantic Ave,Boston,MA,42.35366,-71.05320,Telephone Main 196
-1915,2295,Phonographic Transcribing,Bennett Jeannette L.,703 Barristers Hall,Boston,MA,42.35950,-71.06029,And 11 Pemberton sq.
-1915,2295,Phonographic Transcribing,Bennett Jeannette L.,11 Pemberton sq.,Boston,MA,42.35890,-71.06140,And 703 Barristers Hall
-1915,2295,Phonographs and Records,Dictaphone The,174 Tremont,Boston,MA,42.35354,-71.06420,Dietating Machines
-1915,2295,Phonographs and Records,"Edison Dictating Machine Co. Mershon & Klinefelter, distributors",220 Devonshire,Boston,MA,42.35514,-71.05730,Room 306
-1915,2295,Phonographs and Records,Furbush-Davis Piano Co.,294 Boylston,Boston,MA,42.35182,-71.06980,
-1915,2302,Piano Boxes,Tilton E. H.,146 Summer,Boston,MA,42.35337,-71.05720,Room 25
+1915,2288,Organ Supplies*,"Organ Power Co., A. C. Foster, sales agent",218 Tremont,Boston,MA,42.35160,-71.06440,Room 407
+1915,2295,Phonographic Transcribing*,Bennett Jeannette L.,703 Barristers Hall,Boston,MA,42.35950,-71.06029,And 11 Pemberton sq.
+1915,2295,Phonographic Transcribing*,Bennett Jeannette L.,11 Pemberton sq.,Boston,MA,42.35890,-71.06140,And 703 Barristers Hall
+1915,2295,Phonographs and Records*,Dictaphone The,174 Tremont,Boston,MA,42.35354,-71.06420,Dietating Machines
+1915,2295,Phonographs and Records*,"Edison Dictating Machine Co. Mershon & Klinefelter, distributors",220 Devonshire,Boston,MA,42.35514,-71.05730,Room 306
+1915,2295,Phonographs and Records*,Furbush-Davis Piano Co.,294 Boylston,Boston,MA,42.35182,-71.06980,
+1915,2302,Piano Boxes*,Tilton E. H.,146 Summer,Boston,MA,42.35337,-71.05720,Room 25
 1915,2302,Piano Dealers,American Mail Order Co.,176 Federal,Boston,MA,42.35353,-71.05590,Room 507
 1915,2302,Piano Dealers,American Piano Co.,169 Tremont,Boston,MA,42.35444,-71.06390,
 1915,2302,Piano Dealers,Armstrong Henry,107 Stoughton,Boston,MA,42.31547,-71.06195,Dorchester
@@ -3618,6 +3618,15 @@
 1915,2302,Piano Dealers,Piotti John J.,724 Dudley,Boston,MA,42.31818,-71.06742,
 1915,2302,Piano Dealers,Poole Piano Co.,84 Sidney,Cambridge,MA,42.36087,-71.10167,Cambridge
 1915,2302,Piano Dealers,Robinson Piano Co.,904A Huntington Ave,Boston,MA,42.33193,-71.11188,
+1915,2303,Piano and Organ Felts*,Boston Felt MFG. Co.,110-112 Beach,Boston,MA,42.35095,-71.05782,
+1915,2303,Piano and Organ Manufacturers' Supplies,Bancroft Melvin Co.,101 Tremont,Boston,MA,42.35722,-71.06100,Room 408
+1915,2303,Piano and Organ Manufacturers' Supplies,Boston Piano Supply Co.,1344 Hyde Park Ave,Boston,MA,42.25274,-71.12484,Hyde Park
+1915,2303,Piano and Organ Manufacturers' Supplies,Kinetic Engineering Co.,12 Pearl,Boston,MA,42.35686,-71.05550,Room 7
+1915,2303,Piano and Organ Manufacturers' Supplies,Lansing Edmund H.,611 Washington ,Boston,MA,42.35284,-71.06277,Room 310. Stools and Covers
+1915,2303,Piano and Organ Manufacturers' Supplies,McGreece James P. & Co.,262 Dover,Boston,MA,42.34333,-71.06307,Hardware
+1915,2303,Piano and Organ Manufacturers' Supplies,Norris Noiseless Pedal Action Co.,218 Tremont,Boston,MA,42.35160,-71.06440,Room 305
+1915,2303,Piano and Organ Manufacturers' Supplies,Packard James H.,3 Appleton,Boston,MA,42.34674,-71.06970,Keys repaired
+1915,2303,Piano and Organ Manufacturers' Supplies,Weston W. M. Co.,120 Milk,Boston,MA,42.35801,-71.05420,Quartered ash and maple
 1915,2303,Piano Dealers,Ring Piano Co.,213 Tremont,Boston,MA,42.35149,-71.06490,
 1915,2303,Piano Dealers,Schirmer George L. Co.,100 Boylston,Boston,MA,42.35214,-71.06530,Room 301
 1915,2303,Piano Dealers,Steeves Norman L.,132 Warren,Boston,MA,42.32616,-71.08312,Roxbury
@@ -3631,7 +3640,7 @@
 1915,2303,Piano Dealers,Vose & Sons Piano Co. Gen. Office,160 Boylston,Boston,MA,42.35229,-71.06670,"And Salesroom, 1006 Massachusetts Ave."
 1915,2303,Piano Dealers,Wood Piano Co.,104 Boylston,Boston,MA,42.35224,-71.06540,
 1915,2303,Piano Dealers,Wyman J. Stearns,94 Blackstone,Boston,MA,42.36149,-71.05640,
-1915,2303,Piano Hardware,Moore George W.,15 Chardon,Boston,MA,42.36219,-71.06209,Tuning hammers
+1915,2303,Piano Hardware*,Moore George W.,15 Chardon,Boston,MA,42.36219,-71.06209,Tuning hammers
 1915,2303,Piano Manufacturers,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
 1915,2303,Piano Manufacturers,Blake C. D. & Co.,564 Washington,Boston,MA,42.35346,-71.06233,
 1915,2303,Piano Manufacturers,Briggs Piano Co.,155 Columbus Ave,Boston,MA,42.34935,-71.07130,
@@ -3656,33 +3665,31 @@
 1915,2303,Piano Manufacturers,Poole Piano Co.,84 Sidney,Cambridge,MA,42.36087,-71.10167,Cambridge
 1915,2303,Piano Manufacturers,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,"agts. Steinway & Sons, Hume, Weber, jewett and Woodbury"
 1915,2303,Piano Manufacturers,Vose & Sons Piano Co.,158 Boylston,Boston,MA,42.35233,-71.06610,And 160 Boylston. And General Offices and Factory 1006-1022 Mass. Ave.
-1915,2304,Piano Manufacturers,Vose & Sons Piano Co.,160 Boylston,Boston,MA,42.35229,-71.06670,And 158 Boylston. And General Offices and Factory 1006-1022 Mass. Ave.
-1915,2305,Piano Manufacturers,Vose & Sons Piano Co.,1006-1022 Mass. Av.,Boston,MA,42.32805,-71.06762,Gen. office and factory. And 158 and 160 Boylston.
-1915,2303,Piano Movers,Buckley T. G.,690-692 Dudley,Boston,MA,42.31866,-71.06853,Dorchester
-1915,2303,Piano Movers,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712,
-1915,2303,Piano Movers,Curtis & Croston,68 Charles,Boston,MA,42.35793,-71.07052,
-1915,2303,Piano Movers,Dorchester Parcel Delivery Co.,105 Homes Ave,Boston,MA,42.30341,-71.06653,Dorchester
-1915,2303,Piano Movers,Dunn D. W. & Co.,178-180 State,Boston,MA,42.35947,-71.05380,
-1915,2303,Piano Movers,"Ridlon William, succeeded by J. W. Cook & Son Co.",2 1/2 Park sq.,Boston,MA,42.35710,-71.06230,
-1915,2303,Piano Movers,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Movers,Vose & Sons Piano Co.,158-160 Boylston,Boston,MA,42.35229,-71.06670,
-1915,2303,Piano Packers,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712,
-1915,2303,Piano Packers,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Players,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
-1915,2303,Piano Players,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
-1915,2303,Piano Players,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Repairers,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
-1915,2303,Piano Repairers,Blake C. D. & Co.,564 Washington,Boston,MA,42.35346,-71.06233,
-1915,2303,Piano Repairers,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
-1915,2303,Piano Repairers,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Stools,Paine Furniture Co.,81 Arlington,Boston,MA,42.35053,-71.07040,
-1915,2303,Piano Stools,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Storage,Dorchester Fireproof Storage Warehouse,690-692 Dudley,Boston,MA,42.31866,-71.06853,
-1915,2303,Piano Storage,Hub Storage Warehouse Co.,849 Washington,Boston,MA,42.34883,-71.06429,
-1915,2303,Piano Storage,Metropolitan Storage Warehouse Co.,18 Tremont,Boston,MA,42.35883,-71.05960,"Room 624. And 134-142 Massachusetts Ave, Cambridgeport"
-1915,2303,Piano Storage,Roxbury Storage Warehouse Co.,727 Shawmut Ave,Boston,MA,42.33298,-71.08370,
-1915,2303,Piano Storage,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Piano Storage,Suffolk Storage Warehouse Co.,98-100 Northampton,Boston,MA,42.33522,-71.07730,
+1915,2303,Piano Movers*,Buckley T. G.,690-692 Dudley,Boston,MA,42.31866,-71.06853,Dorchester
+1915,2303,Piano Movers*,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712,
+1915,2303,Piano Movers*,Curtis & Croston,68 Charles,Boston,MA,42.35793,-71.07052,
+1915,2303,Piano Movers*,Dorchester Parcel Delivery Co.,105 Homes Ave,Boston,MA,42.30341,-71.06653,Dorchester
+1915,2303,Piano Movers*,Dunn D. W. & Co.,178-180 State,Boston,MA,42.35947,-71.05380,
+1915,2303,Piano Movers*,"Ridlon William, succeeded by J. W. Cook & Son Co.",2 1/2 Park sq.,Boston,MA,42.35710,-71.06230,
+1915,2303,Piano Movers*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Movers*,Vose & Sons Piano Co.,158-160 Boylston,Boston,MA,42.35229,-71.06670,
+1915,2303,Piano Packers*,Cook J. W. & Son Co.,2½ Park sq.,Boston,MA,42.35224,-71.06712,
+1915,2303,Piano Packers*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Players*,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
+1915,2303,Piano Players*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
+1915,2303,Piano Players*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Repairers*,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
+1915,2303,Piano Repairers*,Blake C. D. & Co.,564 Washington,Boston,MA,42.35346,-71.06233,
+1915,2303,Piano Repairers*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
+1915,2303,Piano Repairers*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Stools*,Paine Furniture Co.,81 Arlington,Boston,MA,42.35053,-71.07040,
+1915,2303,Piano Stools*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Storage*,Dorchester Fireproof Storage Warehouse,690-692 Dudley,Boston,MA,42.31866,-71.06853,
+1915,2303,Piano Storage*,Hub Storage Warehouse Co.,849 Washington,Boston,MA,42.34883,-71.06429,
+1915,2303,Piano Storage*,Metropolitan Storage Warehouse Co.,18 Tremont,Boston,MA,42.35883,-71.05960,"Room 624. And 134-142 Massachusetts Ave, Cambridgeport"
+1915,2303,Piano Storage*,Roxbury Storage Warehouse Co.,727 Shawmut Ave,Boston,MA,42.33298,-71.08370,
+1915,2303,Piano Storage*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Storage*,Suffolk Storage Warehouse Co.,98-100 Northampton,Boston,MA,42.33522,-71.07730,
 1915,2303,Piano Tuners,Barett Martin,113 Dudley,Boston,MA,42.32875,-71.08489,
 1915,2303,Piano Tuners,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
 1915,2303,Piano Tuners,Bauer C. T.,20 Burroughs,Boston,MA,42.31220,-71.11538,
@@ -3743,28 +3750,51 @@
 1915,2303,Piano Tuners,Wheeler George H.,162 Boylston,Boston,MA,42.35229,-71.06680,
 1915,2303,Piano Tuners,Wood Fernando H.,332 Boylston,Boston,MA,42.35166,-71.07090,
 1915,2303,Piano Tuners,Woodhull Charles E.,212 Columbus Ave,Boston,MA,42.34749,-71.07350,
-1915,2303,Piano Tuners' Supplies,Tuner's Supply Co.,88-90 Wheatland,Somerville,MA,42.39367,-71.08800,Somerville
-1915,2303,Piano and Organ Felts,Boston Felt MFG. Co.,110-112 Beach,Boston,MA,42.35095,-71.05782,
-1915,2303,Piano and Organ Manufacturers' Supplies,Bancroft Melvin Co.,101 Tremont,Boston,MA,42.35722,-71.06100,Room 408
-1915,2303,Piano and Organ Manufacturers' Supplies,Boston Piano Supply Co.,1344 Hyde Park Ave,Boston,MA,42.25274,-71.12484,Hyde Park
-1915,2303,Piano and Organ Manufacturers' Supplies,Kinetic Engineering Co.,12 Pearl,Boston,MA,42.35686,-71.05550,Room 7
-1915,2303,Piano and Organ Manufacturers' Supplies,Lansing Edmund H.,611 Washington ,Boston,MA,42.35284,-71.06277,Room 310. Stools and Covers
-1915,2303,Piano and Organ Manufacturers' Supplies,McGreece James P. & Co.,262 Dover,Boston,MA,42.34333,-71.06307,Hardware
-1915,2303,Piano and Organ Manufacturers' Supplies,Norris Noiseless Pedal Action Co.,218 Tremont,Boston,MA,42.35160,-71.06440,Room 305
-1915,2303,Piano and Organ Manufacturers' Supplies,Packard James H.,3 Appleton,Boston,MA,42.34674,-71.06970,Keys repaired
-1915,2303,Piano and Organ Manufacturers' Supplies,Weston W. M. Co.,120 Milk,Boston,MA,42.35801,-71.05420,Quartered ash and maple
-1915,2303,Pianos (Upright),Emerson Piano Co.,560 Harrison Ave,Boston,MA,42.34083,-71.06740,
-1915,2303,Pianos (Upright),Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2303,Pianos to Rent,Faust Oliver C.,27-29 Gainsborough,Boston,MA,42.34108,-71.08570,
-1915,2303,Pianos to Rent,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
-1915,2303,Pianos to Rent,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2305,Player Music,Parker George Lincoln,100 Boylston,Boston,MA,42.35214,-71.06530,3d floor
-1915,2305,Player Music,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06680,
-1915,2305,Player-Piano and Organ Leather,White Son Company,530-540 Atlantic Ave,Boston,MA,42.35366,-71.05320,
-1915,2305,Player Pianos,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07200,
-1915,2305,Player Pianos,Parker George Lincoln,100 Boylston,Boston,MA,42.35214,-71.06530,3d floor
-1915,2305,Player Pianos,Poole Piano Co.,84 Sidney,Cambridge,MA,42.36087,-71.10167,Cambridge
-1915,2305,Player Pianos,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Piano Tuners' Supplies*,Tuner's Supply Co.,88-90 Wheatland,Somerville,MA,42.39367,-71.08800,Somerville
+1915,2303,Pianos (Upright)*,Emerson Piano Co.,560 Harrison Ave,Boston,MA,42.34083,-71.06740,
+1915,2303,Pianos (Upright)*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2303,Pianos to Rent*,Faust Oliver C.,27-29 Gainsborough,Boston,MA,42.34108,-71.08570,
+1915,2303,Pianos to Rent*,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35228,-71.06630,
+1915,2303,Pianos to Rent*,Steinert M. & Sons Co.,162-168 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2304,Piano Manufacturers,Vose & Sons Piano Co.,160 Boylston,Boston,MA,42.35229,-71.06670,And 158 Boylston. And General Offices and Factory 1006-1022 Mass. Ave.
+1915,2305,Piano Manufacturers,Vose & Sons Piano Co.,1006-1022 Mass. Av.,Boston,MA,42.32805,-71.06762,Gen. office and factory. And 158 and 160 Boylston.
+1915,2305,Player Music*,Parker George Lincoln,100 Boylston,Boston,MA,42.35214,-71.06530,3d floor
+1915,2305,Player Music*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2305,Player Pianos*,Miller Henry F. & Sons Piano Co.,395 Boylston,Boston,MA,42.35169,-71.07200,
+1915,2305,Player Pianos*,Parker George Lincoln,100 Boylston,Boston,MA,42.35214,-71.06530,3d floor
+1915,2305,Player Pianos*,Poole Piano Co.,84 Sidney,Cambridge,MA,42.36087,-71.10167,Cambridge
+1915,2305,Player Pianos*,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06680,
+1915,2305,Player-Piano and Organ Leather*,White Son Company,530-540 Atlantic Ave,Boston,MA,42.35366,-71.05320,
+1915,2361,Talking Machines,Arion Mfg. Co.,250 Devonshire,Boston,MA,42.35485,-71.05740,
+1915,2361,Talking Machines,Atlantic Talking Machine Co,220 Devonshire,Boston,MA,42.35514,-71.05732,
+1915,2361,Talking Machines,Bates Walter J. Inc.,63 Summer,Boston,MA,42.35419,-71.05930,
+1915,2361,Talking Machines,Boston Record Exchange,15 School St,Boston,MA,42.35772,-71.05871,Rm. 66
+1915,2361,Talking Machines,Columbia Graphophone Co.,174 Tremont,Boston,MA,42.35354,-71.06423,
+1915,2361,Talking Machines,Conclave Phonograph Co.,48 Cornhill,Boston,MA,42.35959,-71.05872,And 95 Staniford
+1915,2361,Talking Machines,Conclave Phonograph Co.,95 Staniford,Boston,MA,42.36304,-71.06358,And 48 Cornhill
+1915,2361,Talking Machines,"Dictaphone, The",174 Tremont,Boston,MA,42.35354,-71.06423,Dictating machines
+1915,2361,Talking Machines,Dinsmore R A,1221 Tremont,Boston,MA,42.33397,-71.09078,
+1915,2361,Talking Machines,Ditson Oliver Co.,150 Tremont,Boston,MA,42.35480,-71.06310,
+1915,2361,Talking Machines,Eastern Talking Machine Co.,177 Tremont,Boston,MA,42.35302,-71.06425,
+1915,2361,Talking Machines,"Edison Shop, F. H. Thomas Co.",689–691 Boylston,Boston,MA,42.34980,-71.07924,
+1915,2361,Talking Machines,Hammett J. L. Co.,250 Devonshire,Boston,MA,42.35485,-71.05740,
+1915,2361,Talking Machines,Harvey C. C. Co.,144 Boylston,Boston,MA,42.35227,-71.06632,Victor
+1915,2361,Talking Machines,Lincoln Frederick,722 Centre St,Boston,MA,42.31114,-71.11437,Jamaica Plain
+1915,2361,Talking Machines,Metola Talking Machines,18 Boylston,Boston,MA,42.35211,-71.06313,Rm. 26
+1915,2361,Talking Machines,Music Lovers Exchange,564 Washington,Boston,MA,42.35346,-71.06233,Records
+1915,2361,Talking Machines,National Talking Machine Sales Corp.,480 Washington,Boston,MA,42.35467,-71.06126,Rm. 61
+1915,2361,Talking Machines,N. E. Talking Machine Co.,120 Boylston,Boston,MA,42.35226,-71.06572,Rm. 514
+1915,2361,Talking Machines,Office Specialty Co.,220 Devonshire,Boston,MA,42.35514,-71.05732,
+1915,2361,Talking Machines,Operatone Phonograph Co.,35 Huntington Av.,Boston,MA,42.34855,-71.07824,
+1915,2361,Talking Machines,Osgood C. E. Co.,744-756 Washington,Boston,MA,42.35018,-71.06326,"56-58 Meridian, East Boston. And 1075 Cambridge, Cambridge"
+1915,2361,Talking Machines,Osgood C. E. Co.,56-58 Meridian,Boston,MA,42.37164,-71.03917,"East Boston. And 744-756 Washington. And 1075 Cambridge, Cambridge"
+1915,2361,Talking Machines,"Pardee, Ellenberger Co.",26 Oliver,Boston,MA,42.35688,-71.05406,
+1915,2361,Talking Machines,Parker George Lincoln,100 Boylston,Boston,MA,42.35214,-71.06530,3rd floor
+1915,2361,Talking Machines,Rosen Harry,3 School St,Boston,MA,42.35755,-71.05847,
+1915,2361,Talking Machines,South Boston Graphophone Exchange,435 W. Broadway,Boston,MA,42.33626,-71.04734,
+1915,2361,Talking Machines,Steinert M. & Sons Co.,162 Boylston,Boston,MA,42.35229,-71.06680,Victor
+1915,2361,Talking Machines,Tosi Music Co.,279 Hanover,Boston,MA,42.36362,-71.05450,
+1915,2361,Talking Machines,West End Phonograph Co.,83 Leverett,Boston,MA,42.36452,-71.06487,
 1915,2363,Teachers of Music,Abbott Charles J.,162 Boylston,Boston,MA,42.35229,-71.06680,Room 28
 1915,2363,Teachers of Music,Abbott George J.,222 Brighton Ave,Boston,MA,42.35323,-71.13531,
 1915,2363,Teachers of Music,Abbott Lewis W. Mrs.,25 Peterborough,Boston,MA,42.34426,-71.09620,Voice
